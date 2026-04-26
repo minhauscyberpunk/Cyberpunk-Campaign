@@ -34,7 +34,7 @@ name: Badlands
 
 >[!infobox|wsmall wikipedia left]
 ># Badlands
->![cover wfit center](x-system-filesassetsimageslocationsbadlandsvista4.webp)
+>![cover wfit center](../../../../X%20System%20Files/Assets/Images/Locations/BadlandsVista4.webp)
 >
 >## Info
 >The Badlands is the barren desert surrounding [[Night City]].
@@ -42,22 +42,22 @@ name: Badlands
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[Night City](night-city.md)|
+>|Located In:|[Night City](../Night%20City.md)|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location Type | Location                                                                                                              |
 > | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-> | Sub-District  | [North Oak](westbrooknorth-oak.md)                                      |
-> | Sub-District  | [Northside Industrial District](watsonnorthside-industrial-district.md) |
-> | Sub-District  | [Charter Hill](westbrookcharter-hill.md)                                |
-> | Neighbourhood | [West Wind Estate](pacificawest-wind-estate.md)                         |
-> | Neighbourhood | [Rancho Coronado](santo-domingorancho-coronado.md)                      |
-> | Neighbourhood | [Dogtown](pacificadogtown.md)                                           |
-> | Neighbourhood | [Arroyo](santo-domingoarroyo.md)                                        |
-> | District      | [Pacifica](pacifica.md)                                                  |
-> | District      | [Santo Domingo](santo-domingo.md)                                        |
-> | District      | [Westbrook](westbrook.md)                                                |
+> | Sub-District  | [North Oak](./Westbrook/North%20Oak.md)                                      |
+> | Sub-District  | [Northside Industrial District](./Watson/Northside%20Industrial%20District.md) |
+> | Sub-District  | [Charter Hill](./Westbrook/Charter%20Hill.md)                                |
+> | Neighbourhood | [West Wind Estate](./Pacifica/West%20Wind%20Estate.md)                         |
+> | Neighbourhood | [Rancho Coronado](./Santo%20Domingo/Rancho%20Coronado.md)                      |
+> | Neighbourhood | [Dogtown](./Pacifica/Dogtown.md)                                           |
+> | Neighbourhood | [Arroyo](./Santo%20Domingo/Arroyo.md)                                        |
+> | District      | [Pacifica](./Pacifica.md)                                                  |
+> | District      | [Santo Domingo](./Santo%20Domingo.md)                                        |
+> | District      | [Westbrook](./Westbrook.md)                                                |
 > 
 
 # Description
@@ -76,7 +76,7 @@ The Badlands is a vaguely-defined district surrounding [[Night City]]. As the ci
 # Gangs
 | Gang                                       | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Scavs](factionsgangsscavs.md) | Very High    | <ul><li>[Watson](3-worldlocationsnorth-americanight-citywatsonmd.md)</li><li>[Northside Industrial District](3-worldlocationsnorth-americanight-citywatsonnorthside-industrial-districtmd.md)</li><li>[Little China](3-worldlocationsnorth-americanight-citywatsonlittle-chinamd.md)</li><li>[Kabuki](kabuki.md)</li><li>[Badlands](3-worldlocationsnorth-americanight-citybadlandsmd.md)</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul> |
+| [Scavs](../../../Factions/Gangs/Scavs.md) | Very High    | <ul><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Northside Industrial District](3%20World/Locations/North%20America/Night%20City/Watson/Northside%20Industrial%20District.md.md)</li><li>[Little China](3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md.md)</li><li>[Kabuki](Kabuki.md)</li><li>[Badlands](3%20World/Locations/North%20America/Night%20City/Badlands.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # History
@@ -87,4 +87,4 @@ The Badlands is a vaguely-defined district surrounding [[Night City]]. As the ci
 # Maps
 |                                                                         |
 | ----------------------------------------------------------------------- |
-| ![800](x-system-filesassetsimagesmapsmapnightcityaerial2077.webp) |
+| ![800](../../../../X%20System%20Files/Assets/Images/Maps/MapNightCityAerial2077.webp) |
