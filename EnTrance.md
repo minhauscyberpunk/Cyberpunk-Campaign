@@ -12,7 +12,7 @@ location_type: Club
 
 >[!infobox|wsmall wikipedia left]
 ># EnTrance
->![[insert_image.png|wsmall cover]]
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
@@ -27,7 +27,7 @@ location_type: Club
 > 
 
 # Summary
-Nightclub in [[Kabuki]]. Run by [[Miguel "Big Tana" Tanaka|Miguel "Big Tana" Tanaka]], a lower-level [[Tyger Claws|Tyger Claws]] boss.
+Nightclub in [[Kabuki]]. Run by [Miguel "Big Tana" Tanaka](./Miguel%20%22Big%20Tana%22%20Tanaka.md), a lower-level [Tyger Claws](./Tyger%20Claws.md) boss.
 
 # History
 
@@ -57,7 +57,7 @@ SORT location_type DESC, file.link ASC
 # Notable Characters
 | Character                                                                         |    | Character Type | Factions                                                                  |
 | --------------------------------------------------------------------------------- | -- | -------------- | ------------------------------------------------------------------------- |
-| [[3 World/Characters/NPCs/Miguel "Big Tana" Tanaka.md\|Miguel "Big Tana" Tanaka]] | \- | NPC            | <ul><li>[[3 World/Factions/Gangs/Tyger Claws.md\|Tyger Claws]]</li></ul> |
+| [Miguel "Big Tana" Tanaka](./Miguel%20%22Big%20Tana%22%20Tanaka.md) | \- | NPC            | <ul><li>[Tyger Claws](3%20World/Factions/Gangs/Tyger%20Claws.md.md)</li></ul> |
 
 
 # Gangs
@@ -66,4 +66,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![[insert_image.png|cover]]
+![cover](insert_image.png)
