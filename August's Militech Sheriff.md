@@ -1,0 +1,118 @@
+---
+share: true
+tags:
+  - item
+  - weapon
+  - ranged_weapon
+  - militech_sheriff
+  - heavy_pistol
+  - owned_weapon
+  - militech
+  - august
+aliases:
+name: Militech Sheriff
+owner: "[[August]]"
+weapon_type: "[[Heavy Pistol]]"
+weapon_rebuild:
+manufacturer: "[[Militech]]"
+model: "[[Militech Sheriff]]"
+parent_weapon: Militech Sheriff
+weapon_quality: "[[Excellent Quality]]"
+skill: "[[Handgun]]"
+damage: 3d6
+magazine_size: 6
+rof: 2
+hands: 1
+concealable: true
+cost: 200
+max_autofire_mult:
+description: The Sheriff is a [[Heavy Pistol]] manufactured by [[Militech]]. The Militech Sheriff is an [[Excellent Quality]] [[Heavy Pistol]] designed like a revolver. It is incompatible with magazine attachments.
+summary: The Sheriff is an [[Excellent Quality|excellent]] 6-shooter [[Heavy Pistol|heavy revolver]] made by [[Militech]].
+weapon_attachments: []
+other_notes: ""
+info_image:
+other_images: []
+---
+
+>[!infobox|wsmall wikipedia left]
+># August's Militech Sheriff
+>![[\-|cover wfit center]]
+>
+>## Info
+>>[!danger|txt-c no-t]
+>>*Instance of Militech Sheriff*
+>
+>The Sheriff is an [[Excellent Quality|excellent]] 6-shooter [[Heavy Pistol|heavy revolver]] made by [[Militech]].
+>
+>|||
+>|--:|:--|
+>|Manufacturer:|[[3 World/Factions/Corps/Militech.md|Militech]]|
+>|Model:|[[3 World/Items/Equipment/Weapons/Ranged Weapons/Militech Sheriff.md|Militech Sheriff]]|
+>|Parent Weapon:|Militech Sheriff|
+>|Quality:||
+>|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md|Heavy Pistol]]|
+>|Rebuild:||
+>|Cost:|200|
+>|Owner:|[[3 World/Characters/NPCs/August.md|August]]|
+>---
+>### Available Ammunition Types:
+> | Ammunition Type                                                                                                      | Cost |
+> | -------------------------------------------------------------------------------------------------------------------- | ---- |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Basic Ammunition.md\|Basic Ammunition]]                     | 10   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Rubber Ammunition.md\|Rubber Ammunition]]                   | 10   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Improved Smart Ammunition.md\|Improved Smart Ammunition]]   | 50   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Armour Piercing Ammunition.md\|Armour Piercing Ammunition]] | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Expansive Ammunition.md\|Expansive Ammunition]]             | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Incendiary Ammunition.md\|Incendiary Ammunition]]           | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Smart Ammunition.md\|Smart Ammunition]]                     | 500  |
+> 
+
+# Description
+The Sheriff is a [[Heavy Pistol]] manufactured by [[Militech]]. The Militech Sheriff is an [[Excellent Quality]] [[Heavy Pistol]] designed like a revolver. It is incompatible with magazine attachments.
+
+>[!metadata|wfill] Weapon Details
+>|Weapon Type|Skill|Damage|Magazine Size|ROF|Hands Required|Concealable|Autofire Max Multiplier|
+>|--:|--:|:-:|:-:|:-:|:-:|:-:|:-:|
+>|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md|Heavy Pistol]]|[[4 Rules and Mechanics/Skills/Ranged Weapon Skills/Handgun.md|Handgun]]|3d6|6|2|1|true||
+
+# Difficulty Values
+
+>[!danger|wfill] Single Shot Based on Range (note: for [[Shotgun|Shotguns]], this is for [[Slugs|slug ammunition]] only)
+> | Weapon Type                                                                                                        | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m | 101-200 m | 201-400 m | 401-800 m |
+> | ------------------------------------------------------------------------------------------------------------------ | ----- | ------ | ------- | ------- | -------- | --------- | --------- | --------- |
+> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md\|Heavy Pistol]] | 13    | 15     | 20      | 25      | 30       | 30        | \-        | \-        |
+> 
+---
+>[!danger|wfill] Autofire Based on Range (note: only [[SMG|SMGs]] and [[Assault Rifle|Assault Rifles]] can use Autofire, and the skill used is the [[Autofire|Autofire]] skill).
+> | Weapon Type                                                                                                        | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m |
+> | ------------------------------------------------------------------------------------------------------------------ | ----- | ------ | ------- | ------- | -------- |
+> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md\|Heavy Pistol]] | \-    | \-     | \-      | \-      | \-       |
+> 
+
+# Attachments
+| Attachment | Attachment Slots | Cost | Effect |
+| ---------- | ---------------- | ---- | ------ |
+
+
+# Weapon Effects:
+| Cause | Effect |
+| ----- | ------ |
+
+
+# Notable Characters
+| Character |  | Character Type | Factions | Weapons |
+| --------- |  | -------------- | -------- | ------- |
+
+
+# Related Weapons
+| Weapon | Owner |
+| ------ | ----- |
+
+
+# History
+| Event | Date | Summary |
+| ----- | ---- | ------- |
+
+
+# Additional Notes
+
