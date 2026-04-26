@@ -26,7 +26,7 @@ name: Arasaka Waterfront
 
 >[!infobox|wsmall wikipedia left]
 ># Arasaka Waterfront
->![[X System Files/Assets/Images/Locations/WatsonArasakaWaterfrontVista2.webp|cover wfit center]]
+>![cover wfit center](./X%20System%20Files/Assets/Images/Locations/WatsonArasakaWaterfrontVista2.webp)
 >
 >## Info
 >Arasaka Waterfront is [[Arasaka|Arasaka's]] industrial centre in [[Night City]]. The entire Waterfront is controlled directly by the corporation.
@@ -34,14 +34,14 @@ name: Arasaka Waterfront
 >|||
 >|--:|:--|
 >|Type:|Sub-District|
->|Located In:|[[3 World/Locations/North America/Night City/Watson.md|Watson]]|
+>|Located In:|[Watson](./Watson.md)|
 >|Prestige:|Medium|
 >---
 >### Borders
 > | Location Type | Location                                                                                                              |
 > | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md\|Northside Industrial District]] |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]                                   |
+> | Sub-District  | [Northside Industrial District](./Northside%20Industrial%20District.md) |
+> | Sub-District  | [Little China](./Little%20China.md)                                   |
 > 
 
 # Description
@@ -70,4 +70,4 @@ Arasaka Waterfront is a sub-district on the west side of [[Watson]], in the nort
 # Maps
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
-| ![[X System Files/Assets/Images/Maps/MapWatsonArasakaWaterfront2077.webp\|800]] |
+| ![800](./X%20System%20Files/Assets/Images/Maps/MapWatsonArasakaWaterfront2077.webp) |
