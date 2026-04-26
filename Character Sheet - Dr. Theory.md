@@ -11,10 +11,10 @@ lvlevasion: 5
 lvlparamedic: 6
 locations:
   - "[[Watson]]"
-  - "[[Little China]]"
+  - "[Little China](./Little%20China.md)"
 luckincrement: 1
 reputationincrement: 1
-portrait: "[[CrewDrTheory.png]]"
+portrait: "[cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewDrTheory.png)"
 character_type: Crew
 totalhp: 10
 totalhumanity: 0
@@ -97,7 +97,7 @@ currenthumanity: 0
 ---
 
 > [!statblocks|wfit]
-> ![[CrewDrTheory.png|cover right circle hsmall wsmall lp]]
+> ![cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewDrTheory.png)
 > 
 >```meta-bind-button
 >style: "primary"
@@ -243,11 +243,11 @@ currenthumanity: 0
 >    value: "getMetadata('totalluck')"
 >```
 > # "Dr." Theory
-> **Role**: [[Medtech|Medtech]]
+> **Role**: [Medtech](./Medtech.md)
 > *Role Ability*: Surgeon
 > 
 >> [!kith] Description
->> Dr Theory is a doctor, in theory. Homeless in [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]] since deserting during the [[Reunification War|Reunification War]], Dr Theory learned his craft on the battlefield and proves it on the streets of [[Little China]].
+>> Dr Theory is a doctor, in theory. Homeless in [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md) since deserting during the [Reunification War](Reunification%20War.md), Dr Theory learned his craft on the battlefield and proves it on the streets of [Little China](./Little%20China.md).
 >---
 > 
 >> [!info|title-center] Stats
@@ -318,11 +318,11 @@ currenthumanity: 0
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[[English|English]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[[Streetslang|Streetslang]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[English](./English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[Streetslang](./Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[[Little China]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *[Little China](./Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
 >>>> | *The Streets↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlthestreets]` | `VIEW[{int}+{lvlthestreets}][math:basethestreets]` |
 >>>> | Tactics | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvltactics]` | `VIEW[{int}+{lvltactics}][math:basetactics]` |
 >>>> | Wilderness Survival | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlwildernesssurvival]` | `VIEW[{int}+{lvlwildernesssurvival}][math:basewildernesssurvival]` |
@@ -386,22 +386,22 @@ currenthumanity: 0
 
 ## Overview
 Full name: Unknown
-Class: [[Medtech|Medtech]]
+Class: [Medtech](./Medtech.md)
 Subclass: Surgeon
-Background: [[Oceania|Oceania]]/[[Australia|Australia]]
+Background: [Oceania](./Oceania.md)/[Australia](Australia.md)
 Personality: Paranoid, addicted, somewhat nuts
 Values: Money
-Cares for: [["Dr." Theory's Dog|Dog]], deceased, in pieces
-Prized Possession: [["Dr." Theory's Dog Heart|Dog heart in pickle jar]]
-Style: [[Bagman|Bagman]]
+Cares for: [Dog](%22Dr.%22%20Theory's%20Dog.md), deceased, in pieces
+Prized Possession: [Dog heart in pickle jar](./%22Dr.%22%20Theory's%20Dog%20Heart.md)
+Style: [Bagman](./Bagman.md)
 Feelings about people: They are untrustworthy
 ## Relationships
-[[Character Sheet - Crash|Character Sheet - Crash]] - Dr. Theory knows [[Character Sheet - Crash|Character Sheet - Crash]] after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
+[Character Sheet - Crash](./Character%20Sheet%20-%20Crash.md) - Dr. Theory knows [Character Sheet - Crash](./Character%20Sheet%20-%20Crash.md) after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
 
 ## Character Background
-Dr Theory left [[Australia|Australia]] to fight in corporate wars. He served as a medic until the [[Reunification War|Reunification War]], at which point he deserted in [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]].
-The so-called "Dr." Theory (a doctor only in theory), now homeless in [[Little China]], practices street surgery without a license or formal education: the only permanent possessions of his are the remains of his [["Dr." Theory's Dog|dog]], pieces of which he wears in his coat and strung around his neck. His prized possession is the [["Dr." Theory's Dog Heart|dog's heart]], which he keeps in a pickle jar.
+Dr Theory left [Australia](Australia.md) to fight in corporate wars. He served as a medic until the [Reunification War](Reunification%20War.md), at which point he deserted in [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md).
+The so-called "Dr." Theory (a doctor only in theory), now homeless in [Little China](./Little%20China.md), practices street surgery without a license or formal education: the only permanent possessions of his are the remains of his [dog](%22Dr.%22%20Theory's%20Dog.md), pieces of which he wears in his coat and strung around his neck. His prized possession is the [dog's heart](./%22Dr.%22%20Theory's%20Dog%20Heart.md), which he keeps in a pickle jar.
 
 Dr Theory has an ongoing rivalry (one-sided) with all doctors, who he sees as sell-outs and hacks. Individually, these doctors do not know he exists.
 
-He is paranoid that a government or corporate official is out to get him for deserting in the [[Reunification War|Reunification War]]: Dr Theory is however face-blind, and while he swears the individual after him is a *particular* government or corporate official, he does not recognise that any given corporate or government official is not the person after him.
+He is paranoid that a government or corporate official is out to get him for deserting in the [Reunification War](Reunification%20War.md): Dr Theory is however face-blind, and while he swears the individual after him is a *particular* government or corporate official, he does not recognise that any given corporate or government official is not the person after him.
