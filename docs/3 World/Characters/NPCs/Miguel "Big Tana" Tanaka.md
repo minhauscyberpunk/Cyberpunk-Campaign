@@ -18,11 +18,11 @@ locations:
   - "[[Kabuki]]"
   - "[[EnTrance]]"
 factions:
-  - "[Tyger Claws](factionsgangstyger-claws.md)"
+  - "[Tyger Claws](../../Factions/Gangs/Tyger%20Claws.md)"
 character_sheet:
 weapons: []
 summary: ""
 ---
 
-Affiliation: [Tyger Claws](factionsgangstyger-claws.md)
-Class: [Tech](4-rules-and-mechanicsrolestech.md)
+Affiliation: [Tyger Claws](../../Factions/Gangs/Tyger%20Claws.md)
+Class: [Tech](../../../4%20Rules%20and%20Mechanics/Roles/Tech.md)
