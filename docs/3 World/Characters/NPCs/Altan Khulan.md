@@ -7,13 +7,13 @@ aliases: []
 character_type: NPC
 portrait:
 birth_date:
-origin: "[Mongolia](locationseast-asiamongolia.md)"
+origin: "[Mongolia](../../Locations/East%20Asia/Mongolia.md)"
 languages:
   - "[[English]]"
   - "[[Streetslang]]"
   - "[[Mongolian]]"
 locations:
-  - "[Night City](locationsnorth-americanight-city.md)"
+  - "[Night City](../../Locations/North%20America/Night%20City.md)"
   - "[[Westbrook]]"
   - "[[North Oak]]"
 character_sheet:
@@ -21,11 +21,11 @@ weapons: []
 summary: ""
 ---
 
-Altan Khulan was the father of [Crash/Maple Corsair](crewmaple-altaniin-corsair.md). Altan Khulan is deceased, having died in [2071](eventstimeline2071.md).
+Altan Khulan was the father of [Crash/Maple Corsair](../Crew/Maple%20Altaniin%20Corsair.md). Altan Khulan is deceased, having died in [2071](../../Events/Timeline/2071.md).
 
-Altan Khulan came to [Night City](locationsnorth-americanight-city.md) from [Mongolia](locationseast-asiamongolia.md).
+Altan Khulan came to [Night City](../../Locations/North%20America/Night%20City.md) from [Mongolia](../../Locations/East%20Asia/Mongolia.md).
 
-Altan Khulan was the one to give the name [Crash](crewmaple-altaniin-corsair.md). Always letting his little girl borrow his cars with "Don't Crash" slowly turning into "Hey Crash" by the time she returned at dawn.
+Altan Khulan was the one to give the name [Crash](../Crew/Maple%20Altaniin%20Corsair.md). Always letting his little girl borrow his cars with "Don't Crash" slowly turning into "Hey Crash" by the time she returned at dawn.
 
 Altan was a corpo soldier who served for a while for Arakasa then became a agent for Milatech as a double agent who then was tasked with infiltrating Raven. In so deep though he didnt really care. He made it to Night City. All he had to do was report. But he got tired. This triple agent wasnt for him.
 
