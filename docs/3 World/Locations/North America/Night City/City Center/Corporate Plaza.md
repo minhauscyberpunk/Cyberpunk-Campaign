@@ -5,7 +5,7 @@ tags:
   - city_center
   - corpo_plaza
 aliases:
-parent_location: "[City Center](city-center.md)"
+parent_location: "[City Center](../City%20Center.md)"
 bordering_locations:
   - "[[Downtown]]"
   - "[[Vista Del Rey]]"
@@ -17,34 +17,34 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Corporate Plaza
->![wsmall cover](insertimage.png)
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[City Center](city-center.md)|
+>|Located In:|[City Center](../City%20Center.md)|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location                                                                               | Location Type |
 > | -------------------------------------------------------------------------------------- | ------------- |
-> | [Little China](watsonlittle-china.md)    | Sub-District  |
-> | [Charter Hill](westbrookcharter-hill.md) | Sub-District  |
-> | [Japantown](westbrookjapantown.md)       | Sub-District  |
-> | [Downtown](downtown.md)       | Neighbourhood |
-> | [Vista Del Rey](heywoodvista-del-rey.md) | Neighbourhood |
-> | [The Glen](heywoodthe-glen.md)           | Neighbourhood |
-> | [Watson](watson.md)                       | District      |
-> | [Heywood](heywood.md)                     | District      |
-> | [Westbrook](westbrook.md)                 | District      |
+> | [Little China](../Watson/Little%20China.md)    | Sub-District  |
+> | [Charter Hill](../Westbrook/Charter%20Hill.md) | Sub-District  |
+> | [Japantown](../Westbrook/Japantown.md)       | Sub-District  |
+> | [Downtown](./Downtown.md)       | Neighbourhood |
+> | [Vista Del Rey](../Heywood/Vista%20Del%20Rey.md) | Neighbourhood |
+> | [The Glen](../Heywood/The%20Glen.md)           | Neighbourhood |
+> | [Watson](../Watson.md)                       | District      |
+> | [Heywood](../Heywood.md)                     | District      |
+> | [Westbrook](../Westbrook.md)                 | District      |
 > 
 
 # Summary
-Corpo Plaza is a neighbourhood on the east side of the [City Center](city-center.md), in the middle of [Night City](night-city.md). It is the business heart of the city, with regional headquarters of major corporations such as [Arasaka](factionscorpsarasaka.md) and [BioTechnica](factionscorpsbiotechnica.md) surrounding the plaza. In 2023, [Arasaka Tower](corporate-plazaarasaka-tower.md) in Corpo Plaza was the site of a nuclear explosion, caused by a team led by [Morgan Blackhand](morgan-blackhand.md).
+Corpo Plaza is a neighbourhood on the east side of the [City Center](../City%20Center.md), in the middle of [Night City](../../Night%20City.md). It is the business heart of the city, with regional headquarters of major corporations such as [Arasaka](../../../../Factions/Corps/Arasaka.md) and [BioTechnica](../../../../Factions/Corps/Biotechnica.md) surrounding the plaza. In 2023, [Arasaka Tower](./Corporate%20Plaza/Arasaka%20Tower.md) in Corpo Plaza was the site of a nuclear explosion, caused by a team led by [Morgan Blackhand](Morgan%20Blackhand.md).
 
 # History
-- [Night City Holocaust](eventshistorynight-city-holocaust.md)
+- [Night City Holocaust](../../../../Events/History/Night%20City%20Holocaust.md)
 
 
 # Notable Places
@@ -80,4 +80,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![cover](mapcitycenter2077.png)
+![cover](MapCityCenter2077.png)
