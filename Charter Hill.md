@@ -31,7 +31,7 @@ name: Charter Hill
 
 >[!infobox|wsmall wikipedia left]
 ># Charter Hill
->![[X System Files/Assets/Images/Locations/WestbrookCharterHillVista2.webp|cover wfit center]]
+>![cover wfit center](./X%20System%20Files/Assets/Images/Locations/WestbrookCharterHillVista2.webp)
 >
 >## Info
 >Charter Hill is the home in [[Night City]] to those who have "made it" in the corporate world, but aren't necessarily at the top.
@@ -39,20 +39,20 @@ name: Charter Hill
 >|||
 >|--:|:--|
 >|Type:|Sub-District|
->|Located In:|[[3 World/Locations/North America/Night City/Westbrook.md|Westbrook]]|
+>|Located In:|[Westbrook](./Westbrook.md)|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location Type | Location                                                                                         |
 > | ------------- | ------------------------------------------------------------------------------------------------ |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/North Oak.md\|North Oak]]                 |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]                 |
-> | Neighbourhood | [[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]] |
-> | Neighbourhood | [[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]                   |
-> | District      | [[3 World/Locations/North America/Night City/City Center.md\|City Center]]                       |
-> | District      | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]                   |
-> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                             |
-> | District      | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                               |
+> | Sub-District  | [North Oak](./North%20Oak.md)                 |
+> | Sub-District  | [Japantown](./Japantown.md)                 |
+> | Neighbourhood | [Rancho Coronado](./Rancho%20Coronado.md) |
+> | Neighbourhood | [Arroyo](./Arroyo.md)                   |
+> | District      | [City Center](./City%20Center.md)                       |
+> | District      | [Santo Domingo](./Santo%20Domingo.md)                   |
+> | District      | [Badlands](./Badlands.md)                             |
+> | District      | [Heywood](./Heywood.md)                               |
 > 
 
 # Description
@@ -71,16 +71,16 @@ Charter Hill is a sub-district on the south side of [[Westbrook]], in the east o
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Factions/Gangs/Tyger Claws.md\|Tyger Claws]] | Medium       | <ul><li>[[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]</li><li>[[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]</li><li>[[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]]</li><li>[[3 World/Locations/North America/Night City/Watson.md\|Watson]]</li><li>[[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]</li><li>[[Kabuki\|Kabuki]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
+| [Tyger Claws](./Tyger%20Claws.md) | Medium       | <ul><li>[Westbrook](3%20World/Locations/North%20America/Night%20City/Westbrook.md.md)</li><li>[Japantown](3%20World/Locations/North%20America/Night%20City/Westbrook/Japantown.md.md)</li><li>[Charter Hill](3%20World/Locations/North%20America/Night%20City/Westbrook/Charter%20Hill.md.md)</li><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Little China](3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md.md)</li><li>[Kabuki](Kabuki.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # History
 | Event                                                                                                                                                                    | Date                        | Summary                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 17.30 - Asher and H3XX Intro.md\|2074-02-19 17.30 - Asher and H3XX Intro]] | 5:30 PM - February 19, 2074 | [[Asher's Real Name\|Asher]] and [[Sophia Flores\|H3XX]] finish a job for [[Biotechnica|Biotechnica]], before getting a new job offer from [[August|August]] while unwinding. |
+| [2074-02-19 17.30 - Asher and H3XX Intro](./2074-02-19%2017.30%20-%20Asher%20and%20H3XX%20Intro.md) | 5:30 PM - February 19, 2074 | [Asher](Asher's%20Real%20Name.md) and [H3XX](Sophia%20Flores.md) finish a job for [Biotechnica](Biotechnica.md), before getting a new job offer from [August](August.md) while unwinding. |
 
 
 # Maps
 |                                                                              |
 | ---------------------------------------------------------------------------- |
-| ![[X System Files/Assets/Images/Maps/MapWestbrookCharterHill2077.webp\|800]] |
+| ![800](./X%20System%20Files/Assets/Images/Maps/MapWestbrookCharterHill2077.webp) |
