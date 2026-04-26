@@ -32,7 +32,7 @@ name: Mexico
 
 >[!infobox|wsmall wikipedia left]
 ># Mexico
->![cover wfit center](x-system-filesassetsimageslocationsmexicocity3avif.md)
+>![cover wfit center](../../../X%20System%20Files/Assets/Images/Locations/MexicoCity3.avif.md)
 >
 >## Info
 >Mexico is a country in [[North America]].
@@ -40,7 +40,7 @@ name: Mexico
 >|||
 >|--:|:--|
 >|Type:|Country|
->|Located In:|[North America](north-america.md)|
+>|Located In:|[North America](../North%20America.md)|
 >|Prestige:||
 >---
 >### Borders
@@ -78,5 +78,5 @@ Mexico borders [[Central American Federation|the Central American Federation]] t
 # Maps
 |                                                                     |
 | ------------------------------------------------------------------- |
-| ![800](x-system-filesassetsimagesmapsmapnorthamerica2077.png) |
-| ![800](x-system-filesassetsimagesmapsmapmexico2077.png)       |
+| ![800](../../../X%20System%20Files/Assets/Images/Maps/MapNorthAmerica2077.png) |
+| ![800](../../../X%20System%20Files/Assets/Images/Maps/MapMexico2077.png)       |
