@@ -5,7 +5,7 @@ tags:
   - pacifica
   - coastview
 aliases:
-parent_location: "[Pacifica](./Pacifica.md)"
+parent_location: "[[Pacifica]]"
 bordering_locations:
   - "[[West Wind Estate]]"
   - "[[Dogtown]]"
@@ -16,28 +16,28 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Coastview
->![wsmall cover](insert_image.png)
+>![[insert_image.png|wsmall cover]]
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Pacifica](./Pacifica.md)|
+>|Located In:|[[Pacifica]]|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location                                                                                      | Location Type |
 > | --------------------------------------------------------------------------------------------- | ------------- |
-> | [West Wind Estate](./West%20Wind%20Estate.md) | Neighbourhood |
-> | [Dogtown](./Dogtown.md)                   | Neighbourhood |
-> | [The Glen](./The%20Glen.md)                  | Neighbourhood |
-> | [Arroyo](./Arroyo.md)                | Neighbourhood |
-> | [Santo Domingo](./Santo%20Domingo.md)                | District      |
-> | [Heywood](./Heywood.md)                            | District      |
+> | [[3 World/Locations/North America/Night City/Pacifica/West Wind Estate.md\|West Wind Estate]] | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Pacifica/Dogtown.md\|Dogtown]]                   | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]                  | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]                | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]                | District      |
+> | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                            | District      |
 > 
 
 # Summary
-Coastview is a neighbourhood on the north side of [Pacifica](./Pacifica.md), in the south of [Night City](./Night%20City.md).
+Coastview is a neighbourhood on the north side of [[Pacifica]], in the south of [[Night City|Night City]].
 
 # History
 
@@ -72,8 +72,8 @@ SORT location_type DESC, file.link ASC
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Voodoo Boys](./Voodoo%20Boys.md) | Medium       | <ul><li>[Pacifica](3%20World/Locations/North%20America/Night%20City/Pacifica.md.md)</li><li>[Coastview](3%20World/Locations/North%20America/Night%20City/Pacifica/Coastview.md.md)</li><li>[West Wind Estate](3%20World/Locations/North%20America/Night%20City/Pacifica/West%20Wind%20Estate.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
+| [[3 World/Factions/Gangs/Voodoo Boys.md\|Voodoo Boys]] | Medium       | <ul><li>[[3 World/Locations/North America/Night City/Pacifica.md\|Pacifica]]</li><li>[[3 World/Locations/North America/Night City/Pacifica/Coastview.md\|Coastview]]</li><li>[[3 World/Locations/North America/Night City/Pacifica/West Wind Estate.md\|West Wind Estate]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
 
 
 # Map
-![cover](MapPacifica2077.png)
+![[MapPacifica2077.png|cover]]

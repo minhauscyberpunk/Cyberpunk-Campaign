@@ -20,7 +20,7 @@ name: Oceania
 
 >[!infobox|wsmall wikipedia left]
 ># Oceania
->![cover wfit center](./X%20System%20Files/Assets/Images/Maps/MapOceania2077.png)
+>![[X System Files/Assets/Images/Maps/MapOceania2077.png|cover wfit center]]
 >
 >## Info
 >Oceania is a continent in the Southern Hemisphere.
@@ -62,4 +62,4 @@ Oceania is a continent in the Southern Hemisphere. The bulk of its population an
 # Maps
 |                                                                |
 | -------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapOceania2077.png) |
+| ![[X System Files/Assets/Images/Maps/MapOceania2077.png\|800]] |

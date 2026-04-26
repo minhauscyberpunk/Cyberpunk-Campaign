@@ -10,7 +10,7 @@ lvlevasion: 4
 basecorpo: 0
 lvlmongolian: 4
 lvlnightclubs: 3
-portrait: "[cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash.png)"
+portrait: "[[CrewCrash.png]]"
 character_type: Crew
 factions:
 locations:
@@ -106,7 +106,7 @@ currenthumanity: 0
 ---
 
 > [!statblocks|wfit]
-> ![cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash.png)
+> ![[CrewCrash.png|cover right circle hsmall wsmall lp]]
 > 
 >```meta-bind-button
 >style: "primary"
@@ -252,11 +252,11 @@ currenthumanity: 0
 >    value: "getMetadata('totalluck')"
 >```
 > # Crash
-> **Role**: [Rocker](./Rocker.md)
+> **Role**: [[Rocker|Rocker]]
 > *Role Ability*: Musician
 > 
 >> [!kith] Description
->> After turning her back on her corpo upbringing, Crash hit the streets and got by as the lead guitarist and singer of [8.20.2023](./8.20.2023.md), but has made more of a name for herself as the solo act, CrashOut. She has a cyberguitar implanted in her left arm, and she can be found rocking the bars of [Little China](./Little%20China.md) or passed out in their green rooms.
+>> After turning her back on her corpo upbringing, Crash hit the streets and got by as the lead guitarist and singer of [[8.20.2023|8.20.2023]], but has made more of a name for herself as the solo act, CrashOut. She has a cyberguitar implanted in her left arm, and she can be found rocking the bars of [[Little China|Little China]] or passed out in their green rooms.
 >---
 > 
 >> [!info|title-center] Stats
@@ -327,12 +327,12 @@ currenthumanity: 0
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[English](./English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[Mongolian](./Mongolian.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmongolian]` | `VIEW[{int}+{lvlmongolian}][math:basemongolian]` |
->>>> | *[Streetslang](./Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[[English|English]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[[Mongolian|Mongolian]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmongolian]` | `VIEW[{int}+{lvlmongolian}][math:basemongolian]` |
+>>>> | *[[Streetslang|Streetslang]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[Little China](./Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *[[Little China|Little China]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
 >>>> | *Nightclubs↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnightclubs]` | `VIEW[{int}+{lvlnightclubs}][math:basenightclubs]` |
 >>>> | *Corpo↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcorpo]` | `VIEW[{int}+{lvlcorpo}][math:basecorpo]` |
 >>>> | Science | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlscience]` | `VIEW[{int}+{lvlscience}][math:basescience]` |
@@ -398,20 +398,20 @@ currenthumanity: 0
 
 ## Overview
 Full name: Unknown
-Class: [Rocker](./Rocker.md)
+Class: [[Rocker|Rocker]]
 Subclass: Musician
-Background: [East Asia](./East%20Asia.md)/[Mongolia](./Mongolia.md)
+Background: [[East Asia|East Asia]]/[[Mongolia|Mongolia]]
 Personality: Silly/fluff-headed
 Values: Friendship
 Cares for: Herself
-Prized Possession: [Crash's Guitar Pick](Crash's%20Guitar%20Pick.md)
-Style: [Nomad Leathers](Nomad%20Leathers.md)/Punk
+Prized Possession: [[Crash's Guitar Pick|Crash's Guitar Pick]]
+Style: [[Nomad Leathers|Nomad Leathers]]/Punk
 Feelings about people: Prefers to stay neutral
 ## Relationships
-[Character Sheet - Dr. Theory](./Character%20Sheet%20-%20Dr.%20Theory.md) - [Character Sheet - Dr. Theory](./Character%20Sheet%20-%20Dr.%20Theory.md) knows Crash after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
-[Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md) - Crash grew up with [Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md), but knows her only as Angel Rosemont, the ZetaTech scion. The two have a rivalry/they are enemies.
+[[Character Sheet - Dr. Theory|Character Sheet - Dr. Theory]] - [[Character Sheet - Dr. Theory|Character Sheet - Dr. Theory]] knows Crash after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
+[[Character Sheet - ADOS|Character Sheet - ADOS]] - Crash grew up with [[Character Sheet - ADOS|Character Sheet - ADOS]], but knows her only as Angel Rosemont, the ZetaTech scion. The two have a rivalry/they are enemies.
 
 ## Character Background
-Crash grew up in the walled Corporate Zone (which has now been largely replaced by [North Oak](./North%20Oak.md) and [Charter Hill](./Charter%20Hill.md)), the daughter of two corporate executives. Crash's father however was a revolutionary infiltrator, intent on bringing the corp down from the inside. He was found out, reported by Crash's mother, and executed, and Crash has been estranged from her mother ever since. She was offered to stay and join the fold and accept a lucrative life as a corporate bureaucrat, but she blasted her way out and hit the streets as a musician.
+Crash grew up in the walled Corporate Zone (which has now been largely replaced by [[North Oak|North Oak]] and [[Charter Hill|Charter Hill]]), the daughter of two corporate executives. Crash's father however was a revolutionary infiltrator, intent on bringing the corp down from the inside. He was found out, reported by Crash's mother, and executed, and Crash has been estranged from her mother ever since. She was offered to stay and join the fold and accept a lucrative life as a corporate bureaucrat, but she blasted her way out and hit the streets as a musician.
 
-She was the singer and guitarist of [8.20.2023](./8.20.2023.md), a punk band active in [Watson](./Watson.md). She has found more success as a solo act, with a cyber-guitar in her left arm. She has an apartment in [Megabuilding H10](3%20World/Locations/North%20America/Night%20City/Buildings/Megabuilding%20H10.md) in [Little China](./Little%20China.md), but she will often crash in the green room of the clubs she plays in.
+She was the singer and guitarist of [[8.20.2023|8.20.2023]], a punk band active in [[Watson|Watson]]. She has found more success as a solo act, with a cyber-guitar in her left arm. She has an apartment in [[3 World/Locations/North America/Night City/Buildings/Megabuilding H10|3 World/Locations/North America/Night City/Buildings/Megabuilding H10]] in [[Little China|Little China]], but she will often crash in the green room of the clubs she plays in.

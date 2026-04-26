@@ -31,7 +31,7 @@ name: Mongolia
 
 >[!infobox|wsmall wikipedia left]
 ># Mongolia
->![cover wfit center](X%20System%20Files/Assets/Images/Locations/LocationsMongoliaVista2.jpeg)
+>![[X System Files/Assets/Images/Locations/LocationsMongoliaVista2.jpeg|cover wfit center]]
 >
 >## Info
 >Mongolia is a country of endless plains in [[East Asia]].
@@ -39,7 +39,7 @@ name: Mongolia
 >|||
 >|--:|:--|
 >|Type:|Country|
->|Located In:|[East Asia](./East%20Asia.md)|
+>|Located In:|[[3 World/Locations/East Asia.md|East Asia]]|
 >|Prestige:||
 >---
 >### Borders
@@ -77,5 +77,5 @@ Mongolia borders [[China]] to the south and [[USSR|the USSR]] to the north.
 # Maps
 |                                                                 |
 | --------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapEastAsia2077.png) |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapMongolia2077.png) |
+| ![[X System Files/Assets/Images/Maps/MapEastAsia2077.png\|800]] |
+| ![[X System Files/Assets/Images/Maps/MapMongolia2077.png\|800]] |

@@ -21,7 +21,7 @@ bordering_locations:
 info_image: X System Files/Assets/Images/Locations/WatsonNorthsideIndustrialDistrictVista2.webp
 description: Northside Industrial District, or Northside for short, is a sub-district on the north side of [[Watson]], in the north of [[Night City]]. It largely consists of factories, warehouses, and gang hideouts.
 map_images:
-  - "[X System Files/Assets/Images/Maps/MapWatsonNorthsideIndustrialDistrict2077.webp](./X%20System%20Files/Assets/Images/Maps/MapWatsonNorthsideIndustrialDistrict2077.webp)"
+  - "[[X System Files/Assets/Images/Maps/MapWatsonNorthsideIndustrialDistrict2077.webp]]"
 other_images:
   - X System Files/Assets/Images/Locations/WatsonNorthsideIndustrialDistrictVista1.webp
   - X System Files/Assets/Images/Locations/WatsonNorthsideIndustrialDistrictVista3.webp
@@ -30,7 +30,7 @@ name: Northside Industrial District
 
 >[!infobox|wsmall wikipedia left]
 ># Northside Industrial District
->![cover wfit center](./X%20System%20Files/Assets/Images/Locations/WatsonNorthsideIndustrialDistrictVista2.webp)
+>![[X System Files/Assets/Images/Locations/WatsonNorthsideIndustrialDistrictVista2.webp|cover wfit center]]
 >
 >## Info
 >Northside is the industrial centre of [[Night City]] and arguably the city's most violent region, with [[Scavs]] and [[Maelstrom]] running rampant in the area.
@@ -38,18 +38,18 @@ name: Northside Industrial District
 >|||
 >|--:|:--|
 >|Type:|Sub-District|
->|Located In:|[Watson](./Watson.md)|
+>|Located In:|[[3 World/Locations/North America/Night City/Watson.md|Watson]]|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location Type | Location                                                                                        |
 > | ------------- | ----------------------------------------------------------------------------------------------- |
-> | Sub-District  | [Arasaka Waterfront](./Arasaka%20Waterfront.md) |
-> | Sub-District  | [North Oak](./North%20Oak.md)                |
-> | Sub-District  | [Little China](./Little%20China.md)             |
-> | Sub-District  | [Japantown](./Japantown.md)                |
-> | District      | [Badlands](./Badlands.md)                            |
-> | District      | [Westbrook](./Westbrook.md)                          |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Arasaka Waterfront.md\|Arasaka Waterfront]] |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/North Oak.md\|North Oak]]                |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]             |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]                |
+> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                            |
+> | District      | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                          |
 > 
 
 # Description
@@ -58,29 +58,29 @@ Northside Industrial District, or Northside for short, is a sub-district on the 
 # Notable Places
 | Location                                                                                                            | Location Type |
 | ------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [The Colosseum](./The%20Colosseum.md) | Venue         |
+| [[3 World/Locations/North America/Night City/Watson/Northside Industrial District/The Colosseum.md\|The Colosseum]] | Venue         |
 
 
 # Notable Characters
 | Character                                     |    | Character Type | Factions |
 | --------------------------------------------- | -- | -------------- | -------- |
-| [August](./August.md) | \- | NPC            | \-       |
+| [[3 World/Characters/NPCs/August.md\|August]] | \- | NPC            | \-       |
 
 
 # Gangs
 | Gang                                               | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Scavs](./Scavs.md)         | Very High    | <ul><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Northside Industrial District](3%20World/Locations/North%20America/Night%20City/Watson/Northside%20Industrial%20District.md.md)</li><li>[Little China](3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md.md)</li><li>[[Kabuki\\|Kabuki]]</li><li>[Badlands](3%20World/Locations/North%20America/Night%20City/Badlands.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
-| [Maelstrom](./Maelstrom.md) | High         | <ul><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Northside Industrial District](3%20World/Locations/North%20America/Night%20City/Watson/Northside%20Industrial%20District.md.md)</li><li>[[Kabuki\\|Kabuki]]</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul>                                                                                                                                                                            |
+| [[3 World/Factions/Gangs/Scavs.md\|Scavs]]         | Very High    | <ul><li>[[3 World/Locations/North America/Night City/Watson.md\|Watson]]</li><li>[[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md\|Northside Industrial District]]</li><li>[[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]</li><li>[[Kabuki\\|Kabuki]]</li><li>[[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
+| [[3 World/Factions/Gangs/Maelstrom.md\|Maelstrom]] | High         | <ul><li>[[3 World/Locations/North America/Night City/Watson.md\|Watson]]</li><li>[[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md\|Northside Industrial District]]</li><li>[[Kabuki\\|Kabuki]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul>                                                                                                                                                                            |
 
 
 # History
 | Event                                                                                                                                                                    | Date                        | Summary |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------- |
-| [2074-02-19 20.30 - The Crew Get the Job](./2074-02-19%2020.30%20-%20The%20Crew%20Get%20the%20Job.md) | 8:30 PM - February 19, 2074 |         |
+| [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 20.30 - The Crew Get the Job.md\|2074-02-19 20.30 - The Crew Get the Job]] | 8:30 PM - February 19, 2074 |         |
 
 
 # Maps
 |                                                                                           |
 | ----------------------------------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapWatsonNorthsideIndustrialDistrict2077.webp) |
+| ![[X System Files/Assets/Images/Maps/MapWatsonNorthsideIndustrialDistrict2077.webp\|800]] |

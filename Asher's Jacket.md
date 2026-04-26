@@ -4,8 +4,8 @@ tags:
 aliases:
 ---
 
-Asher's Jacket is something of an heirloom passed down to [Character Sheet - Asher](./Character%20Sheet%20-%20Asher.md) by her parents. It is a [Nepalese](./Nepal.md) style jacket that has been modified to suit the [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md) climate. it has [Kevlar](./Kevlar.md) woven inside it, giving it SP7 Armour Rating.
+Asher's Jacket is something of an heirloom passed down to [[Character Sheet - Asher|Character Sheet - Asher]] by her parents. It is a [[Nepal|Nepalese]] style jacket that has been modified to suit the [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]] climate. it has [[Kevlar|Kevlar]] woven inside it, giving it SP7 Armour Rating.
 
-[Character Sheet - Asher](./Character%20Sheet%20-%20Asher.md) has dyed her jacket pink, and it has patches and details in mountain motifs.
+[[Character Sheet - Asher|Character Sheet - Asher]] has dyed her jacket pink, and it has patches and details in mountain motifs.
 
 Armour Rating: SP7

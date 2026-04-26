@@ -11,7 +11,7 @@ tags:
 aliases:
 name: Militech Dragon
 owner:
-weapon_type: "[Assault Rifles](./Assault%20Rifle.md)"
+weapon_type: "[[Assault Rifle]]"
 weapon_rebuild:
 weapon_attachments: []
 weapon_effects: []
@@ -27,8 +27,8 @@ hands: "2"
 concealable:
 cost: "1000"
 max_autofire_mult: 4
-description: The [[Militech]] "Dragon" is an [[Excellent Quality]] [Assault Rifles](./Assault%20Rifle.md). It is standard issue for [[Lazarus Military Operations Group|Lazarus]] soldiers for mass combat, and also popular with paratroopers.
-summary: The Dragon is an [[Excellent Quality|excellent]] [Assault Rifles](./Assault%20Rifle.md) manufactured by [[Militech]].
+description: The [[Militech]] "Dragon" is an [[Excellent Quality]] [[Assault Rifle]]. It is standard issue for [[Lazarus Military Operations Group|Lazarus]] soldiers for mass combat, and also popular with paratroopers.
+summary: The Dragon is an [[Excellent Quality|excellent]] [[Assault Rifle]] manufactured by [[Militech]].
 other_notes: []
 stat: ref
 info_image:
@@ -37,17 +37,17 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left]
 ># Militech Dragon
->![cover wfit center](-.md)
+>![[\-|cover wfit center]]
 >
 >## Info
 >The Dragon is an [[Excellent Quality|excellent]] [[Assault Rifle]] manufactured by [[Militech]].
 >
 >|||
 >|--:|:--|
->|Manufacturer:|[Militech](./Militech.md)|
->|Model:|[[Militech Dragon|Militech Dragon]]|
->|Quality:|[Excellent Quality](./Excellent%20Quality.md)|
->|Type:|[Assault Rifle](./Assault%20Rifle.md)|
+>|Manufacturer:|[[3 World/Factions/Corps/Militech.md|Militech]]|
+>|Model:|[[3 World/Items/Equipment/Weapons/Ranged Weapons/Militech Dragon.md|Militech Dragon]]|
+>|Quality:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Qualities/Excellent Quality.md|Excellent Quality]]|
+>|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Assault Rifle.md|Assault Rifle]]|
 >|Rebuild:||
 >|Cost:|1000|
 >|Owner:||
@@ -55,13 +55,13 @@ other_images: []
 >### Available Ammunition Types:
 > | Ammunition Type                                                                                                      | Cost |
 > | -------------------------------------------------------------------------------------------------------------------- | ---- |
-> | [Basic Ammunition](./Basic%20Ammunition.md)                     | 10   |
-> | [Rubber Ammunition](./Rubber%20Ammunition.md)                   | 10   |
-> | [Improved Smart Ammunition](./Improved%20Smart%20Ammunition.md)   | 50   |
-> | [Armour Piercing Ammunition](./Armour%20Piercing%20Ammunition.md) | 100  |
-> | [Expansive Ammunition](./Expansive%20Ammunition.md)             | 100  |
-> | [Incendiary Ammunition](./Incendiary%20Ammunition.md)           | 100  |
-> | [Smart Ammunition](./Smart%20Ammunition.md)                     | 500  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Basic Ammunition.md\|Basic Ammunition]]                     | 10   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Rubber Ammunition.md\|Rubber Ammunition]]                   | 10   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Improved Smart Ammunition.md\|Improved Smart Ammunition]]   | 50   |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Armour Piercing Ammunition.md\|Armour Piercing Ammunition]] | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Expansive Ammunition.md\|Expansive Ammunition]]             | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Incendiary Ammunition.md\|Incendiary Ammunition]]           | 100  |
+> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Smart Ammunition.md\|Smart Ammunition]]                     | 500  |
 > 
 
 # Description
@@ -70,27 +70,27 @@ The [[Militech]] "Dragon" is an [[Excellent Quality]] [[Assault Rifle]]. It is s
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Skill|Damage|Magazine Size|ROF|Hands Required|Concealable|Autofire Max Multiplier|
 >|--:|--:|:-:|:-:|:-:|:-:|:-:|:-:|
->|[Assault Rifle](./Assault%20Rifle.md)|[Shoulder Arms](./Shoulder%20Arms.md)|5d6|25|1|2|||
+>|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Assault Rifle.md|Assault Rifle]]|[[4 Rules and Mechanics/Skills/Ranged Weapon Skills/Shoulder Arms.md|Shoulder Arms]]|5d6|25|1|2|||
 
 # Difficulty Values
 
->[!danger|wfill] Single Shot Based on Range (note: for [Shotguns](./Shotgun.md), this is for [slug ammunition](Slugs.md) only)
+>[!danger|wfill] Single Shot Based on Range (note: for [[Shotgun|Shotguns]], this is for [[Slugs|slug ammunition]] only)
 > | Weapon Type                                                                                                          | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m | 101-200 m | 201-400 m | 401-800 m |
 > | -------------------------------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------- | -------- | --------- | --------- | --------- |
-> | [Assault Rifle](./Assault%20Rifle.md) | 17    | 16     | 15      | 13      | 15       | 20        | 25        | 30        |
+> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Assault Rifle.md\|Assault Rifle]] | 17    | 16     | 15      | 13      | 15       | 20        | 25        | 30        |
 > 
 ---
->[!danger|wfill] Autofire Based on Range (note: only [SMGs](./SMG.md) and [Assault Rifles](./Assault%20Rifle.md) can use Autofire, and the skill used is the [Autofire](./Autofire.md) skill).
+>[!danger|wfill] Autofire Based on Range (note: only [[SMG|SMGs]] and [[Assault Rifle|Assault Rifles]] can use Autofire, and the skill used is the [[Autofire|Autofire]] skill).
 > | Weapon Type                                                                                                          | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m |
 > | -------------------------------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------- | -------- |
-> | [Assault Rifle](./Assault%20Rifle.md) | 17    | 16     | 15      | 13      | 15       |
+> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Assault Rifle.md\|Assault Rifle]] | 17    | 16     | 15      | 13      | 15       |
 > 
 
 
 # Weapon Effects:
 | Cause                                                                                                                            | Effect                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [Excellent Quality](./Excellent%20Quality.md) | When attacking with an Excellent Quality Weapon you add a +1 to your Attack Check with it. Cost varies based on the weapon’s base cost. |
+| [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Qualities/Excellent Quality.md\|Excellent Quality]] | When attacking with an Excellent Quality Weapon you add a +1 to your Attack Check with it. Cost varies based on the weapon’s base cost. |
 
 
 # Notable Characters

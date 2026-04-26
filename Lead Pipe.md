@@ -31,7 +31,7 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left]
 ># Lead Pipe
->![cover wfit center](-.md)
+>![[\-|cover wfit center]]
 >
 >## Info
 >A lead pipe is a [[Heavy Melee Weapon]] that can be wielded with one hand.
@@ -40,7 +40,7 @@ other_images: []
 >|--:|:--|
 >|Manufacturer:||
 >|Model:||
->|Type:|[Heavy Melee Weapon](./Heavy%20Melee%20Weapon.md)|
+>|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Heavy Melee Weapon.md|Heavy Melee Weapon]]|
 >|Cost:|50|
 
 # Description
@@ -49,7 +49,7 @@ A lead pipe is a one-handed [[Heavy Melee Weapon]]. It has been fashioned from a
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Stat|Skill|Damage|ROF|Hands Required|Concealable|
 >|--:|--:|--:|:-:|:-:|:-:|:-:|
->|[Heavy Melee Weapon](./Heavy%20Melee%20Weapon.md)|DEX|[Melee Weapon](./Melee%20Weapon.md)|3d6|2|1||
+>|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Heavy Melee Weapon.md|Heavy Melee Weapon]]|DEX|[[4 Rules and Mechanics/Skills/Fighting Skills/Melee Weapon.md|Melee Weapon]]|3d6|2|1||
 
 # Weapon Effects:
 | Cause | Effect |

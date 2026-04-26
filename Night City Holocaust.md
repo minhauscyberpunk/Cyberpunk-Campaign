@@ -8,7 +8,7 @@ locations:
   - "[[Night City]]"
   - "[[City Center]]"
   - "[[Corporate Plaza]]"
-  - "[Arasaka Tower](./Arasaka%20Tower.md)"
+  - "[[Arasaka Tower]]"
 involved_people:
   - "[[Morgan Blackhand]]"
   - "[[Shaitan]]"
@@ -19,11 +19,11 @@ involved_people:
   - "[[Adam Smasher]]"
 involved_factions:
   - "[[Arasaka]]"
-  - "[Militech](./Militech.md)"
+  - "[[Militech]]"
 weapons:
   - "[[Johnny Silverhand's Malorian 3516]]"
   - "[[Nuclear Bomb]]"
-summary: On August 20th 2023, a [Militech](./Militech.md) incursion team led by [[Morgan Blackhand]] and [[Johnny Silverhand]] infiltrated [Arasaka Tower](./Arasaka%20Tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War]], and started the [Time of the Red](./Time%20of%20the%20Red.md).
+summary: On August 20th 2023, a [[Militech]] incursion team led by [[Morgan Blackhand]] and [[Johnny Silverhand]] infiltrated [[Arasaka Tower]] and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War]], and started the [[Time of the Red]].
 ---
 
-On August 20th 2023, a [Militech](./Militech.md) incursion team led by [[Morgan Blackhand]] and [[Johnny Silverhand]] infiltrated [Arasaka Tower](./Arasaka%20Tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War]], and started the [Time of the Red](./Time%20of%20the%20Red.md).
+On August 20th 2023, a [[Militech]] incursion team led by [[Morgan Blackhand]] and [[Johnny Silverhand]] infiltrated [[Arasaka Tower]] and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War]], and started the [[Time of the Red]].

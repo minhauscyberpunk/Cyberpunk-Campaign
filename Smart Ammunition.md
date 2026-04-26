@@ -25,4 +25,4 @@ Arrows, Bullets, and Rockets.
 
 Cost is per 1 Rocket or per 10 Bullets/Arrows.
 
-NOTE: Smart Ammunition has an [Improved version](./Improved%20Smart%20Ammunition.md) used in the CEMK which is much cheaper and has different rules.
+NOTE: Smart Ammunition has an [[Improved Smart Ammunition|Improved version]] used in the CEMK which is much cheaper and has different rules.

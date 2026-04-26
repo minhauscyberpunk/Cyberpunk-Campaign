@@ -31,7 +31,7 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left]
 ># Baseball Bat
->![cover wfit center](-.md)
+>![[\-|cover wfit center]]
 >
 >## Info
 >>[!danger|txt-c no-t]
@@ -44,7 +44,7 @@ other_images: []
 >|Manufacturer:||
 >|Model:||
 >|Parent Weapon:||
->|Type:|[Medium Melee Weapon](./Medium%20Melee%20Weapon.md)|
+>|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Medium Melee Weapon.md|Medium Melee Weapon]]|
 >|Cost:||
 >|Owner:||
 
@@ -54,7 +54,7 @@ A baseball bat is a (usually) 2-handed [[Medium Melee Weapon]] that can be swung
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Stat|Skill|Damage|ROF|Hands Required|Concealable|
 >|--:|--:|--:|:-:|:-:|:-:|:-:|
->|[Medium Melee Weapon](./Medium%20Melee%20Weapon.md)|DEX|[Melee Weapon](./Melee%20Weapon.md)|2d6|2|2||
+>|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Medium Melee Weapon.md|Medium Melee Weapon]]|DEX|[[4 Rules and Mechanics/Skills/Fighting Skills/Melee Weapon.md|Melee Weapon]]|2d6|2|2||
 
 # Weapon Effects:
 | Cause | Effect |
@@ -69,7 +69,7 @@ A baseball bat is a (usually) 2-handed [[Medium Melee Weapon]] that can be swung
 # Related Weapons
 | Weapon                                                                                   | Owner |
 | ---------------------------------------------------------------------------------------- | ----- |
-| [Homer 4000](./Homer%204000.md) | \-    |
+| [[3 World/Items/Equipment/Weapons/Melee Weapons/Baseball Bat/Homer 4000.md\|Homer 4000]] | \-    |
 
 
 # History

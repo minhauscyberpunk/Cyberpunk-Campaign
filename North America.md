@@ -24,7 +24,7 @@ name: North America
 
 >[!infobox|wsmall wikipedia left]
 ># North America
->![cover wfit center](./X%20System%20Files/Assets/Images/Maps/MapNorthAmerica2077.png)
+>![[X System Files/Assets/Images/Maps/MapNorthAmerica2077.png|cover wfit center]]
 >
 >## Info
 >North America is a continent in the Northern Hemisphere.
@@ -38,7 +38,7 @@ name: North America
 >### Borders
 > | Location Type | Location                                              |
 > | ------------- | ----------------------------------------------------- |
-> | Region        | [South America](./South%20America.md) |
+> | Region        | [[3 World/Locations/South America.md\|South America]] |
 > 
 
 # Description
@@ -49,8 +49,8 @@ North America is the region containing [[Night City]], the setting of our story.
 # Notable Places
 | Location                                                      | Location Type |
 | ------------------------------------------------------------- | ------------- |
-| [Mexico](./Mexico.md)         | Country       |
-| [Night City](./Night%20City.md) | City          |
+| [[3 World/Locations/North America/Mexico.md\|Mexico]]         | Country       |
+| [[3 World/Locations/North America/Night City.md\|Night City]] | City          |
 
 
 # Notable Characters
@@ -71,4 +71,4 @@ North America is the region containing [[Night City]], the setting of our story.
 # Maps
 |                                                                     |
 | ------------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapNorthAmerica2077.png) |
+| ![[X System Files/Assets/Images/Maps/MapNorthAmerica2077.png\|800]] |

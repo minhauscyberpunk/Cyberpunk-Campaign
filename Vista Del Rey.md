@@ -5,7 +5,7 @@ tags:
   - heywood
   - vista_del rey
 aliases:
-parent_location: "[Heywood](./Heywood.md)"
+parent_location: "[[Heywood]]"
 bordering_locations:
   - "[[The Glen]]"
   - "[[Corporate Plaza]]"
@@ -16,30 +16,30 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Vista Del Rey
->![wsmall cover](insert_image.png)
+>![[insert_image.png|wsmall cover]]
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Heywood](./Heywood.md)|
+>|Located In:|[[Heywood]]|
 >|Prestige:|High|
 >---
 >### Borders
 > | Location                                                                                       | Location Type |
 > | ---------------------------------------------------------------------------------------------- | ------------- |
-> | [Charter Hill](./Charter%20Hill.md)         | Sub-District  |
-> | [Japantown](./Japantown.md)               | Sub-District  |
-> | [Corporate Plaza](./Corporate%20Plaza.md) | Neighbourhood |
-> | [The Glen](./The%20Glen.md)                   | Neighbourhood |
-> | [Arroyo](./Arroyo.md)                 | Neighbourhood |
-> | [City Center](./City%20Center.md)                     | District      |
-> | [Santo Domingo](./Santo%20Domingo.md)                 | District      |
-> | [Westbrook](./Westbrook.md)                         | District      |
+> | [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]]         | Sub-District  |
+> | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]               | Sub-District  |
+> | [[3 World/Locations/North America/Night City/City Center/Corporate Plaza.md\|Corporate Plaza]] | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]                   | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]                 | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/City Center.md\|City Center]]                     | District      |
+> | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]                 | District      |
+> | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                         | District      |
 > 
 
 # Summary
-Vista Del Rey is a neighbourhood on the east side of [Heywood](./Heywood.md), in the inner south of [Night City](./Night%20City.md).
+Vista Del Rey is a neighbourhood on the east side of [[Heywood]], in the inner south of [[Night City|Night City]].
 
 # History
 
@@ -74,9 +74,9 @@ SORT location_type DESC, file.link ASC
 # Gangs
 | Gang                                                           | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [6th Street Gang](./6th%20Street%20Gang.md) | Low          | <ul><li>[Santo Domingo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo.md.md)</li><li>[Arroyo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Arroyo.md.md)</li><li>[Rancho Coronado](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Rancho%20Coronado.md.md)</li><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
-| [Valentinos](./Valentinos.md)           | Medium       | <ul><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[Wellsprings](3%20World/Locations/North%20America/Night%20City/Heywood/Wellsprings.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul>                                                                                                                                                                                               |
+| [[3 World/Factions/Gangs/6th Street Gang.md\|6th Street Gang]] | Low          | <ul><li>[[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]]</li><li>[[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]</li><li>[[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]]</li><li>[[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
+| [[3 World/Factions/Gangs/Valentinos.md\|Valentinos]]           | Medium       | <ul><li>[[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]</li><li>[[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]</li><li>[[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]]</li><li>[[3 World/Locations/North America/Night City/Heywood/Wellsprings.md\|Wellsprings]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul>                                                                                                                                                                                               |
 
 
 # Map
-![cover](MapHeywood2077.png)
+![[MapHeywood2077.png|cover]]

@@ -24,7 +24,7 @@ name: South Asia
 
 >[!infobox|wsmall wikipedia left]
 ># South Asia
->![cover wfit center](./X%20System%20Files/Assets/Images/Maps/MapSouthAsia.png)
+>![[X System Files/Assets/Images/Maps/MapSouthAsia.png|cover wfit center]]
 >
 >## Info
 >South Asia is a region on the continent of Asia in the Northern Hemisphere.
@@ -38,7 +38,7 @@ name: South Asia
 >### Borders
 > | Location Type | Location                                      |
 > | ------------- | --------------------------------------------- |
-> | Region        | [East Asia](./East%20Asia.md) |
+> | Region        | [[3 World/Locations/East Asia.md\|East Asia]] |
 > 
 
 # Description
@@ -47,7 +47,7 @@ South Asia is a region located on the continent of Asia, in the Northern Hemisph
 # Notable Places
 | Location                                         | Location Type |
 | ------------------------------------------------ | ------------- |
-| [Nepal](./Nepal.md) | Country       |
+| [[3 World/Locations/South Asia/Nepal.md\|Nepal]] | Country       |
 
 
 # Notable Characters
@@ -68,4 +68,4 @@ South Asia is a region located on the continent of Asia, in the Northern Hemisph
 # Maps
 |                                                              |
 | ------------------------------------------------------------ |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapSouthAsia.png) |
+| ![[X System Files/Assets/Images/Maps/MapSouthAsia.png\|800]] |
