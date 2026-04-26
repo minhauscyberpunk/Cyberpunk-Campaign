@@ -5,7 +5,7 @@ tags:
   - pacifica
   - dogtown
 aliases:
-parent_location: "[Pacifica](pacifica.md)"
+parent_location: "[Pacifica](../Pacifica.md)"
 bordering_locations:
   - "[[Coastview]]"
   - "[[West Wind Estate]]"
@@ -16,27 +16,27 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Dogtown
->![wsmall cover](insertimage.png)
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Pacifica](pacifica.md)|
+>|Located In:|[Pacifica](../Pacifica.md)|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location                                                                                      | Location Type |
 > | --------------------------------------------------------------------------------------------- | ------------- |
-> | [West Wind Estate](west-wind-estate.md) | Neighbourhood |
-> | [Coastview](coastview.md)               | Neighbourhood |
-> | [Arroyo](santo-domingoarroyo.md)                | Neighbourhood |
-> | [Santo Domingo](santo-domingo.md)                | District      |
-> | [Badlands](badlands.md)                          | District      |
+> | [West Wind Estate](./West%20Wind%20Estate.md) | Neighbourhood |
+> | [Coastview](./Coastview.md)               | Neighbourhood |
+> | [Arroyo](../Santo%20Domingo/Arroyo.md)                | Neighbourhood |
+> | [Santo Domingo](../Santo%20Domingo.md)                | District      |
+> | [Badlands](../Badlands.md)                          | District      |
 > 
 
 # Summary
-Dogtown is a neighbourhood on the east side of [Pacifica](pacifica.md), in the south of [Night City](night-city.md). Dogtown is walled off from the outside world, and inside operates as a [Combat Zone](combat-zone.md).
+Dogtown is a neighbourhood on the east side of [Pacifica](../Pacifica.md), in the south of [Night City](../../Night%20City.md). Dogtown is walled off from the outside world, and inside operates as a [Combat Zone](Combat%20Zone.md).
 
 # History
 
@@ -74,4 +74,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![cover](mappacifica2077.png)
+![cover](MapPacifica2077.png)
