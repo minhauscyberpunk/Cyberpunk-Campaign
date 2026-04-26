@@ -1,5 +1,0 @@
----
-share: true
-tags:
-aliases:
----
