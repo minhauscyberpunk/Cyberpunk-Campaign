@@ -35,7 +35,7 @@ name: Westbrook
 
 >[!infobox|wsmall wikipedia left]
 ># Westbrook
->![[X System Files/Assets/Images/Locations/WestbrookJapantownVista1.webp|cover wfit center]]
+>![cover wfit center](./X%20System%20Files/Assets/Images/Locations/WestbrookJapantownVista1.webp)
 >
 >## Info
 >Westbrook is a well-off district in the west of [[Night City]], home to some of Night City's richest residents.
@@ -43,19 +43,19 @@ name: Westbrook
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[[3 World/Locations/North America/Night City.md|Night City]]|
+>|Located In:|[Night City](./Night%20City.md)|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location Type | Location                                                                                                              |
 > | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md\|Northside Industrial District]] |
-> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]                                   |
-> | District      | [[3 World/Locations/North America/Night City/Watson.md\|Watson]]                                                      |
-> | District      | [[3 World/Locations/North America/Night City/City Center.md\|City Center]]                                            |
-> | District      | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]                                        |
-> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                                                  |
-> | District      | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                                                    |
+> | Sub-District  | [Northside Industrial District](./Northside%20Industrial%20District.md) |
+> | Sub-District  | [Little China](./Little%20China.md)                                   |
+> | District      | [Watson](./Watson.md)                                                      |
+> | District      | [City Center](./City%20Center.md)                                            |
+> | District      | [Santo Domingo](./Santo%20Domingo.md)                                        |
+> | District      | [Badlands](./Badlands.md)                                                  |
+> | District      | [Heywood](./Heywood.md)                                                    |
 > 
 
 # Description
@@ -64,33 +64,33 @@ Westbrook is a district on the east side of [[Night City]]. It contains the sub-
 # Notable Places
 | Location                                                                               | Location Type |
 | -------------------------------------------------------------------------------------- | ------------- |
-| [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]] | Sub-District  |
-| [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]       | Sub-District  |
-| [[3 World/Locations/North America/Night City/Westbrook/North Oak.md\|North Oak]]       | Sub-District  |
+| [Charter Hill](./Charter%20Hill.md) | Sub-District  |
+| [Japantown](./Japantown.md)       | Sub-District  |
+| [North Oak](./North%20Oak.md)       | Sub-District  |
 
 
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Characters/Crew/Angel Rosemont.md\|Angel Rosemont]] | ![[X System Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png\|100]] | Crew           | <ul><li>[[3 World/Factions/Corps/ZetaTech.md\|ZetaTech]]</li><li>[[3 World/Factions/Crew.md\|Crew]]</li></ul> |
-| [[3 World/Characters/NPCs/Altan Khulan.md\|Altan Khulan]]     | \-                                                                          | NPC            | \-                                                                                                              |
+| [Angel Rosemont](./Angel%20Rosemont.md) | ![100](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
+| [Altan Khulan](./Altan%20Khulan.md)     | \-                                                                          | NPC            | \-                                                                                                              |
 
 
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Factions/Gangs/Tyger Claws.md\|Tyger Claws]] | Medium       | <ul><li>[[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]</li><li>[[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]</li><li>[[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]]</li><li>[[3 World/Locations/North America/Night City/Watson.md\|Watson]]</li><li>[[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]</li><li>[[Kabuki\\|Kabuki]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
+| [Tyger Claws](./Tyger%20Claws.md) | Medium       | <ul><li>[Westbrook](3%20World/Locations/North%20America/Night%20City/Westbrook.md.md)</li><li>[Japantown](3%20World/Locations/North%20America/Night%20City/Westbrook/Japantown.md.md)</li><li>[Charter Hill](3%20World/Locations/North%20America/Night%20City/Westbrook/Charter%20Hill.md.md)</li><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Little China](3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md.md)</li><li>[[Kabuki\\|Kabuki]]</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # History
 | Event                                                                                                                                                                    | Date                        | Summary                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Events/Characters/Murder of Altan Khulan.md\|Murder of Altan Khulan]]                                                                                          | September 13, 2071          | In [[2071|2071]], corporate spy [[Altan Khulan|Altan Khulan]] was murdered by his wife, [[Cedar Corsair|Cedar Corsair]], on behalf of the [[Raven Microcybernetics|Raven Microcybernetics]] corporation. [[Maple Khulaniin Corsair|Maple Khulaniin Corsair]] witnesses her father's murder and leaves home, taking a new life as the [[Rockergirl|Rockergirl]] [[Maple Altaniin Corsair\|Crash]]. |
-| [[3 World/Events/Characters/Angel Rosemont's Graduation.md\|Angel Rosemont's Graduation]]                                                                                | June 15, 2073               | In the summer of [[2073|2073]], [[Angel Rosemont|Angel Rosemont]] graduated from [[North Oak Academy|North Oak Academy]] with straight As. Upon graduation, she began a sabattical year, moonlighting as a [[Netrunner|Netrunner]] with the handle [[Angel Rosemont\|ADOS]] to build experience.                                                        |
-| [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 17.30 - Asher and H3XX Intro.md\|2074-02-19 17.30 - Asher and H3XX Intro]] | 5:30 PM - February 19, 2074 | [[Asher's Real Name\|Asher]] and [[Sophia Flores\|H3XX]] finish a job for [[Biotechnica|Biotechnica]], before getting a new job offer from [[August|August]] while unwinding.                                                                                                                                              |
+| [Murder of Altan Khulan](./Murder%20of%20Altan%20Khulan.md)                                                                                          | September 13, 2071          | In [2071](2071.md), corporate spy [Altan Khulan](Altan%20Khulan.md) was murdered by his wife, [Cedar Corsair](Cedar%20Corsair.md), on behalf of the [Raven Microcybernetics](Raven%20Microcybernetics.md) corporation. [Maple Khulaniin Corsair](Maple%20Khulaniin%20Corsair.md) witnesses her father's murder and leaves home, taking a new life as the [Rockergirl](Rockergirl.md) [Crash](Maple%20Altaniin%20Corsair.md). |
+| [Angel Rosemont's Graduation](./Angel%20Rosemont's%20Graduation.md)                                                                                | June 15, 2073               | In the summer of [2073](2073.md), [Angel Rosemont](Angel%20Rosemont.md) graduated from [North Oak Academy](North%20Oak%20Academy.md) with straight As. Upon graduation, she began a sabattical year, moonlighting as a [Netrunner](Netrunner.md) with the handle [ADOS](Angel%20Rosemont.md) to build experience.                                                        |
+| [2074-02-19 17.30 - Asher and H3XX Intro](./2074-02-19%2017.30%20-%20Asher%20and%20H3XX%20Intro.md) | 5:30 PM - February 19, 2074 | [Asher](Asher's%20Real%20Name.md) and [H3XX](Sophia%20Flores.md) finish a job for [Biotechnica](Biotechnica.md), before getting a new job offer from [August](August.md) while unwinding.                                                                                                                                              |
 
 
 # Maps
 |                                                                   |
 | ----------------------------------------------------------------- |
-| ![[X System Files/Assets/Images/Maps/MapWestbrook2077.webp\|800]] |
+| ![800](./X%20System%20Files/Assets/Images/Maps/MapWestbrook2077.webp) |
