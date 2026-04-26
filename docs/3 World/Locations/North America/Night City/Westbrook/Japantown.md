@@ -34,7 +34,7 @@ name: Japantown
 
 >[!infobox|wsmall wikipedia left]
 ># Japantown
->![cover wfit center](x-system-filesassetsimageslocationswestbrookjapantownvista3.webp)
+>![cover wfit center](../../../../../X%20System%20Files/Assets/Images/Locations/WestbrookJapantownVista3.webp)
 >
 >## Info
 >Japantown is the colourful urban core of [[Westbrook]], in [[Night City|Night City's]] inner east.
@@ -42,21 +42,21 @@ name: Japantown
 >|||
 >|--:|:--|
 >|Type:|Sub-District|
->|Located In:|[Westbrook](westbrook.md)|
+>|Located In:|[Westbrook](../Westbrook.md)|
 >|Prestige:|Medium|
 >---
 >### Borders
 > | Location Type | Location                                                                                                              |
 > | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-> | Sub-District  | [North Oak](north-oak.md)                                      |
-> | Sub-District  | [Northside Industrial District](watsonnorthside-industrial-district.md) |
-> | Sub-District  | [Little China](watsonlittle-china.md)                                   |
-> | Sub-District  | [Charter Hill](charter-hill.md)                                |
-> | Neighbourhood | [Vista Del Rey](heywoodvista-del-rey.md)                                |
-> | Neighbourhood | [Corporate Plaza](city-centercorporate-plaza.md)                        |
-> | District      | [Watson](watson.md)                                                      |
-> | District      | [City Center](city-center.md)                                            |
-> | District      | [Heywood](heywood.md)                                                    |
+> | Sub-District  | [North Oak](./North%20Oak.md)                                      |
+> | Sub-District  | [Northside Industrial District](../Watson/Northside%20Industrial%20District.md) |
+> | Sub-District  | [Little China](../Watson/Little%20China.md)                                   |
+> | Sub-District  | [Charter Hill](./Charter%20Hill.md)                                |
+> | Neighbourhood | [Vista Del Rey](../Heywood/Vista%20Del%20Rey.md)                                |
+> | Neighbourhood | [Corporate Plaza](../City%20Center/Corporate%20Plaza.md)                        |
+> | District      | [Watson](../Watson.md)                                                      |
+> | District      | [City Center](../City%20Center.md)                                            |
+> | District      | [Heywood](../Heywood.md)                                                    |
 > 
 
 # Description
@@ -75,7 +75,7 @@ Japantown is a sub-district on the west side of [[Westbrook]], in the east of [[
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Tyger Claws](factionsgangstyger-claws.md) | Medium       | <ul><li>[Westbrook](3-worldlocationsnorth-americanight-citywestbrookmd.md)</li><li>[Japantown](3-worldlocationsnorth-americanight-citywestbrookjapantownmd.md)</li><li>[Charter Hill](3-worldlocationsnorth-americanight-citywestbrookcharter-hillmd.md)</li><li>[Watson](3-worldlocationsnorth-americanight-citywatsonmd.md)</li><li>[Little China](3-worldlocationsnorth-americanight-citywatsonlittle-chinamd.md)</li><li>[[Kabuki\\|Kabuki]]</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul> |
+| [Tyger Claws](../../../../Factions/Gangs/Tyger%20Claws.md) | Medium       | <ul><li>[Westbrook](3%20World/Locations/North%20America/Night%20City/Westbrook.md.md)</li><li>[Japantown](3%20World/Locations/North%20America/Night%20City/Westbrook/Japantown.md.md)</li><li>[Charter Hill](3%20World/Locations/North%20America/Night%20City/Westbrook/Charter%20Hill.md.md)</li><li>[Watson](3%20World/Locations/North%20America/Night%20City/Watson.md.md)</li><li>[Little China](3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md.md)</li><li>[[Kabuki\\|Kabuki]]</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # History
@@ -86,4 +86,4 @@ Japantown is a sub-district on the west side of [[Westbrook]], in the east of [[
 # Maps
 |                                                                            |
 | -------------------------------------------------------------------------- |
-| ![800](x-system-filesassetsimagesmapsmapwestbrookjapantown2077.webp) |
+| ![800](../../../../../X%20System%20Files/Assets/Images/Maps/MapWestbrookJapantown2077.webp) |
