@@ -4,4 +4,4 @@ tags:
 aliases:
 ---
 
-Eurodollars (€$): currency of [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]].
+Eurodollars (€$): currency of [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md).
