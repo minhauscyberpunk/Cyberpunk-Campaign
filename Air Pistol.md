@@ -36,7 +36,7 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left background-color-purple]
 ># Air Pistol (Exotic)
->![[\-|cover wfit center]]
+>![cover wfit center](-.md)
 >
 >## Info
 >The Air Pistol is a 0-damage [[Exotic Weapon|Exotic]] [[Medium Pistol]] that fires paintballs, which can also be filled with acid instead for armour corrosion.
@@ -44,9 +44,9 @@ other_images: []
 >|||
 >|--:|:--|
 >|Manufacturer:||
->|Model:|[[3 World/Items/Equipment/Weapons/Exotic Weapons/Air Pistol.md|Air Pistol]]|
->|Quality:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Qualities/Average Quality.md|Average Quality]]|
->|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Medium Pistol.md|Medium Pistol]]|
+>|Model:|[Air Pistol](Air%20Pistol.md)|
+>|Quality:|[Average Quality](./Average%20Quality.md)|
+>|Type:|[Medium Pistol](./Medium%20Pistol.md)|
 >|Rebuild:||
 >|Cost:|100|
 >|Owner:||
@@ -54,13 +54,13 @@ other_images: []
 >### Available Ammunition Types:
 > | Ammunition Type                                                                                                      | Cost |
 > | -------------------------------------------------------------------------------------------------------------------- | ---- |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Basic Ammunition.md\|Basic Ammunition]]                     | 10   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Rubber Ammunition.md\|Rubber Ammunition]]                   | 10   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Improved Smart Ammunition.md\|Improved Smart Ammunition]]   | 50   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Armour Piercing Ammunition.md\|Armour Piercing Ammunition]] | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Expansive Ammunition.md\|Expansive Ammunition]]             | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Incendiary Ammunition.md\|Incendiary Ammunition]]           | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Smart Ammunition.md\|Smart Ammunition]]                     | 500  |
+> | [Basic Ammunition](./Basic%20Ammunition.md)                     | 10   |
+> | [Rubber Ammunition](./Rubber%20Ammunition.md)                   | 10   |
+> | [Improved Smart Ammunition](./Improved%20Smart%20Ammunition.md)   | 50   |
+> | [Armour Piercing Ammunition](./Armour%20Piercing%20Ammunition.md) | 100  |
+> | [Expansive Ammunition](./Expansive%20Ammunition.md)             | 100  |
+> | [Incendiary Ammunition](./Incendiary%20Ammunition.md)           | 100  |
+> | [Smart Ammunition](./Smart%20Ammunition.md)                     | 500  |
 > 
 
 # Description
@@ -69,26 +69,26 @@ The Air Pistol is an [[Exotic Weapon|Exotic]] [[Medium Pistol]] that deals 0 dam
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Skill|Damage|Magazine Size|ROF|Hands Required|Concealable|Autofire Max Multiplier|
 >|--:|--:|:-:|:-:|:-:|:-:|:-:|:-:|
->|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Medium Pistol.md|Medium Pistol]]|[[4 Rules and Mechanics/Skills/Ranged Weapon Skills/Handgun.md|Handgun]]|0d6|12|2|1|||
+>|[Medium Pistol](./Medium%20Pistol.md)|[Handgun](./Handgun.md)|0d6|12|2|1|||
 
 # Difficulty Values
 
->[!danger|wfill] Single Shot Based on Range (note: for [[Shotgun|Shotguns]], this is for [[Slugs|slug ammunition]] only)
+>[!danger|wfill] Single Shot Based on Range (note: for [Shotguns](./Shotgun.md), this is for [slug ammunition](Slugs.md) only)
 > | Weapon Type                                                                                                          | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m | 101-200 m | 201-400 m | 401-800 m |
 > | -------------------------------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------- | -------- | --------- | --------- | --------- |
-> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Medium Pistol.md\|Medium Pistol]] | 13    | 15     | 20      | 25      | 30       | 30        | \-        | \-        |
+> | [Medium Pistol](./Medium%20Pistol.md) | 13    | 15     | 20      | 25      | 30       | 30        | \-        | \-        |
 > 
 ---
->[!danger|wfill] Autofire Based on Range (note: only [[SMG|SMGs]] and [[Assault Rifle|Assault Rifles]] can use Autofire, and the skill used is the [[Autofire|Autofire]] skill).
+>[!danger|wfill] Autofire Based on Range (note: only [SMGs](./SMG.md) and [Assault Rifles](./Assault%20Rifle.md) can use Autofire, and the skill used is the [Autofire](./Autofire.md) skill).
 > | Weapon Type                                                                                                          | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m |
 > | -------------------------------------------------------------------------------------------------------------------- | ----- | ------ | ------- | ------- | -------- |
-> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Medium Pistol.md\|Medium Pistol]] | \-    | \-     | \-      | \-      | \-       |
+> | [Medium Pistol](./Medium%20Pistol.md) | \-    | \-     | \-      | \-      | \-       |
 > 
 
 # Weapon Effects:
 | Cause                                                                                                                        | Effect |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Qualities/Average Quality.md\|Average Quality]] | \-     |
+| [Average Quality](./Average%20Quality.md) | \-     |
 
 
 # Notable Characters

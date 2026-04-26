@@ -5,7 +5,7 @@ tags:
   - city_center
   - corpo_plaza
 aliases:
-parent_location: "[[City Center]]"
+parent_location: "[City Center](./City%20Center.md)"
 bordering_locations:
   - "[[Downtown]]"
   - "[[Vista Del Rey]]"
@@ -17,34 +17,34 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Corporate Plaza
->![[insert_image.png|wsmall cover]]
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[[City Center]]|
+>|Located In:|[City Center](./City%20Center.md)|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location                                                                               | Location Type |
 > | -------------------------------------------------------------------------------------- | ------------- |
-> | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]    | Sub-District  |
-> | [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]] | Sub-District  |
-> | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]       | Sub-District  |
-> | [[3 World/Locations/North America/Night City/City Center/Downtown.md\|Downtown]]       | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]] | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]           | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Watson.md\|Watson]]                       | District      |
-> | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                     | District      |
-> | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                 | District      |
+> | [Little China](./Little%20China.md)    | Sub-District  |
+> | [Charter Hill](./Charter%20Hill.md) | Sub-District  |
+> | [Japantown](./Japantown.md)       | Sub-District  |
+> | [Downtown](./Downtown.md)       | Neighbourhood |
+> | [Vista Del Rey](./Vista%20Del%20Rey.md) | Neighbourhood |
+> | [The Glen](./The%20Glen.md)           | Neighbourhood |
+> | [Watson](./Watson.md)                       | District      |
+> | [Heywood](./Heywood.md)                     | District      |
+> | [Westbrook](./Westbrook.md)                 | District      |
 > 
 
 # Summary
-Corpo Plaza is a neighbourhood on the east side of the [[City Center]], in the middle of [[Night City|Night City]]. It is the business heart of the city, with regional headquarters of major corporations such as [[Arasaka|Arasaka]] and [[BioTechnica|BioTechnica]] surrounding the plaza. In 2023, [[Arasaka Tower|Arasaka Tower]] in Corpo Plaza was the site of a nuclear explosion, caused by a team led by [[Morgan Blackhand|Morgan Blackhand]].
+Corpo Plaza is a neighbourhood on the east side of the [City Center](./City%20Center.md), in the middle of [Night City](./Night%20City.md). It is the business heart of the city, with regional headquarters of major corporations such as [Arasaka](./Arasaka.md) and [BioTechnica](./Biotechnica.md) surrounding the plaza. In 2023, [Arasaka Tower](./Arasaka%20Tower.md) in Corpo Plaza was the site of a nuclear explosion, caused by a team led by [Morgan Blackhand](Morgan%20Blackhand.md).
 
 # History
-- [[3 World/Events/History/Night City Holocaust.md|Night City Holocaust]]
+- [Night City Holocaust](./Night%20City%20Holocaust.md)
 
 
 # Notable Places
@@ -80,4 +80,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![[MapCityCenter2077.png|cover]]
+![cover](MapCityCenter2077.png)

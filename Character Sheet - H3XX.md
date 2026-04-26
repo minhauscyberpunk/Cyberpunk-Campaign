@@ -10,13 +10,13 @@ lvlevasion: 6
 basecorpo: 0
 locations:
   - "[[Watson]]"
-  - "[[Little China]]"
+  - "[Little China](./Little%20China.md)"
   - "[[H3XX's Apartment]]"
 luckincrement: 1
 reputationincrement: 1
 baseeducation: 4
 baseevasion: 6
-portrait: "[[CrewH3XX.png]]"
+portrait: "[cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewH3XX.png)"
 character_type: Crew
 totalhp: 10
 totalhumanity: 0
@@ -98,7 +98,7 @@ currenthumanity: 0
 ---
 
 > [!statblocks|wfit]
-> ![[CrewH3XX.png|cover right circle hsmall wsmall lp]]
+> ![cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewH3XX.png)
 > 
 >```meta-bind-button
 >style: "primary"
@@ -244,11 +244,11 @@ currenthumanity: 0
 >    value: "getMetadata('totalluck')"
 >```
 > # H3XX
-> **Role**: [[Netrunner|Netrunner]]
+> **Role**: [Netrunner](./Netrunner.md)
 > *Role Ability*:
 > 
 >> [!kith] Description
->> H3XX is a flashy [[Netrunner|Netrunner]] out to prove herself. She signs all her hacks with bright flashy malware, much to the chagrin of her employers who often want her to keep a low profile. Nobody can argue that she doesn't get results, though: H3XX is a talented runner who wants everyone across the Net to know her name.
+>> H3XX is a flashy [Netrunner](./Netrunner.md) out to prove herself. She signs all her hacks with bright flashy malware, much to the chagrin of her employers who often want her to keep a low profile. Nobody can argue that she doesn't get results, though: H3XX is a talented runner who wants everyone across the Net to know her name.
 >---
 > 
 >> [!info|title-center] Stats
@@ -319,13 +319,13 @@ currenthumanity: 0
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[[English|English]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[[Spanish|Spanish]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlspanish]` | `VIEW[{int}+{lvlspanish}][math:basespanish]` |
->>>> | *[[Streetslang|Streetslang]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[English](./English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[Spanish](./Spanish.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlspanish]` | `VIEW[{int}+{lvlspanish}][math:basespanish]` |
+>>>> | *[Streetslang](./Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[[Little China]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
->>>> | *Old [[Combat Zone|Combat Zone]]s↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcombatzones]` | `VIEW[{int}+{lvlcombatzones}][math:basecombatzones]` |
+>>>> | *[Little China](./Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *Old [Combat Zone](Combat%20Zone.md)s↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcombatzones]` | `VIEW[{int}+{lvlcombatzones}][math:basecombatzones]` |
 >>>> | *Corpo↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcorpo]` | `VIEW[{int}+{lvlcorpo}][math:basecorpo]` |
 >>>> | Science | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlscience]` | `VIEW[{int}+{lvlscience}][math:basescience]` |
 >>>> | Tactics | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvltactics]` | `VIEW[{int}+{lvltactics}][math:basetactics]` |
@@ -389,22 +389,22 @@ currenthumanity: 0
 
 ## Overview
 Full name: Unknown
-Class: [[Netrunner|Netrunner]]
+Class: [Netrunner](./Netrunner.md)
 Subclass:
-Background: [[North America|North America]]/[[Mexico|Mexico]]
+Background: [North America](./North%20America.md)/[Mexico](./Mexico.md)
 Personality: Desperate for approval
 Values: Her image/reputation
 Cares for: A mentor
 Prized Possession: Boots
-Style: [[Asia Pop|Asia Pop]]
+Style: [Asia Pop](./Asia%20Pop.md)
 Feelings about people: They are untrustworthy
 ## Relationships
-- [[Character Sheet - Asher|Character Sheet - Asher]]: H3XX has worked jobs with [[Character Sheet - Asher|Character Sheet - Asher]] in the past for Corpos in [[Charter Hill|Charter Hill]] and [[North Oak|North Oak]]. The two get along well enough, but [[Character Sheet - Asher|Character Sheet - Asher]] does believe that H3XX is unprofessional on the job.
-- [[Character Sheet - ADOS|Character Sheet - ADOS]]: H3XX is aware of [[Character Sheet - ADOS|Character Sheet - ADOS]] by reputation as a [[Netrunner|Netrunner]]: she is unaware that [[Character Sheet - ADOS|Character Sheet - ADOS]] is Angel Rosemont, daughter of the [[ZetaTech|ZetaTech]] CEO.
+- [Character Sheet - Asher](./Character%20Sheet%20-%20Asher.md): H3XX has worked jobs with [Character Sheet - Asher](./Character%20Sheet%20-%20Asher.md) in the past for Corpos in [Charter Hill](./Charter%20Hill.md) and [North Oak](./North%20Oak.md). The two get along well enough, but [Character Sheet - Asher](./Character%20Sheet%20-%20Asher.md) does believe that H3XX is unprofessional on the job.
+- [Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md): H3XX is aware of [Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md) by reputation as a [Netrunner](./Netrunner.md): she is unaware that [Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md) is Angel Rosemont, daughter of the [ZetaTech](./ZetaTech.md) CEO.
 
 ## Character Background
-H3XX grew up in a [[Combat Zone|Combat Zone]] in [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]] (in what *used* to be quite a nice neighbourhood) at the end of the [[Time of the Red|Time of the Red]]. She learned to hack and netrun using scavenged [[Cyberdeck|Cyberdeck]]s. Her parents were killed in the [[Combat Zone|Combat Zone]] when she was young, and she has come to rely on only herself and her reputation to stay alive.
+H3XX grew up in a [Combat Zone](Combat%20Zone.md) in [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md) (in what *used* to be quite a nice neighbourhood) at the end of the [Time of the Red](./Time%20of%20the%20Red.md). She learned to hack and netrun using scavenged [Cyberdeck](Cyberdeck.md)s. Her parents were killed in the [Combat Zone](Combat%20Zone.md) when she was young, and she has come to rely on only herself and her reputation to stay alive.
 
-She has done relatively well for herself doing gigs for Corpos in [[Charter Hill|Charter Hill]] and [[North Oak|North Oak]], including hacking, cybersecurity, comms, and assisting in more complex jobs such as bodyguarding. She lives in a small apartment in [[Little China]], which is completely loaded with brightly coloured and decorated tech and netrunning equipment.
+She has done relatively well for herself doing gigs for Corpos in [Charter Hill](./Charter%20Hill.md) and [North Oak](./North%20Oak.md), including hacking, cybersecurity, comms, and assisting in more complex jobs such as bodyguarding. She lives in a small apartment in [Little China](./Little%20China.md), which is completely loaded with brightly coloured and decorated tech and netrunning equipment.
 
-She signs all her hacks with signature pop-up ads: her employers often wish she wouldn't do this, as discretion is often required. Nonetheless, her skills are good and she is in relatively high demand as a [[Netrunner|Netrunner]].
+She signs all her hacks with signature pop-up ads: her employers often wish she wouldn't do this, as discretion is often required. Nonetheless, her skills are good and she is in relatively high demand as a [Netrunner](./Netrunner.md).

@@ -20,7 +20,7 @@ name: The Colosseum
 
 >[!infobox|wsmall wikipedia left]
 ># The Colosseum
->![[\-|cover wfit center]]
+>![cover wfit center](-.md)
 >
 >## Info
 >The Colossum is the private fight club, bar, and music venue owned by the [[Fixer"fixer]] [[August]]. It is in [[Watson]], right where [[Little China]] gives way to the warehouses of the [[Northside Industrial Area|Northside]].
@@ -28,7 +28,7 @@ name: The Colosseum
 >|||
 >|--:|:--|
 >|Type:|Venue|
->|Located In:|[[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md|Northside Industrial District]]|
+>|Located In:|[Northside Industrial District](./Northside%20Industrial%20District.md)|
 >|Prestige:|Low|
 >---
 >### Borders
@@ -47,7 +47,7 @@ The Colosseum is a fighting club on the edge of [[Little China]] owned by [[Augu
 # Notable Characters
 | Character                                     |    | Character Type | Factions |
 | --------------------------------------------- | -- | -------------- | -------- |
-| [[3 World/Characters/NPCs/August.md\|August]] | \- | NPC            | \-       |
+| [August](./August.md) | \- | NPC            | \-       |
 
 
 # Gangs
@@ -58,7 +58,7 @@ The Colosseum is a fighting club on the edge of [[Little China]] owned by [[Augu
 # History
 | Event                                                                                                                                                                    | Date                        | Summary |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------- |
-| [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 20.30 - The Crew Get the Job.md\|2074-02-19 20.30 - The Crew Get the Job]] | 8:30 PM - February 19, 2074 |         |
+| [2074-02-19 20.30 - The Crew Get the Job](./2074-02-19%2020.30%20-%20The%20Crew%20Get%20the%20Job.md) | 8:30 PM - February 19, 2074 |         |
 
 
 # Maps

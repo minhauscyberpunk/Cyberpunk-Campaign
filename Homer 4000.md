@@ -34,20 +34,20 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left]
 ># Homer 4000
->![[\-|cover wfit center]]
+>![cover wfit center](-.md)
 >
 >## Info
 >>[!danger|txt-c no-t]
->>*Instance of [[3 World/Items/Equipment/Weapons/Melee Weapons/Baseball Bat.md|Baseball Bat]]*
+>>*Instance of [Baseball Bat](./Baseball%20Bat.md)*
 >
 >The Homer 4000 is an aluminium [[Baseball Bat|baseball bat]]. it is a renowned home-run hitter.
 >
 >|||
 >|--:|:--|
 >|Manufacturer:|[[Jerry's Sporting Goods|Jerry's Sporting Goods]]|
->|Model:|[[3 World/Items/Equipment/Weapons/Melee Weapons/Baseball Bat/Homer 4000.md|Homer 4000]]|
->|Parent Weapon:|[[3 World/Items/Equipment/Weapons/Melee Weapons/Baseball Bat.md|Baseball Bat]]|
->|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Medium Melee Weapon.md|Medium Melee Weapon]]|
+>|Model:|[[Homer 4000|Homer 4000]]|
+>|Parent Weapon:|[Baseball Bat](./Baseball%20Bat.md)|
+>|Type:|[Medium Melee Weapon](./Medium%20Melee%20Weapon.md)|
 >|Cost:|100|
 >|Owner:||
 
@@ -57,12 +57,12 @@ The Homer 4000 is a [[Baseball Bat|baseball bat]] manufactured by [[Jerry's Spor
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Stat|Skill|Damage|ROF|Hands Required|Concealable|
 >|--:|--:|--:|:-:|:-:|:-:|:-:|
->|[[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Types/Medium Melee Weapon.md|Medium Melee Weapon]]|DEX|[[4 Rules and Mechanics/Skills/Fighting Skills/Melee Weapon.md|Melee Weapon]]|2d6|2|2||
+>|[Medium Melee Weapon](./Medium%20Melee%20Weapon.md)|DEX|[Melee Weapon](./Melee%20Weapon.md)|2d6|2|2||
 
 # Weapon Effects:
 | Cause                                                                                                          | Effect                                   |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [[4 Rules and Mechanics/Items/Equipment/Weapons/Melee Weapons/Melee Weapon Effects/Big Hitter.md\|Big Hitter]] | Hits to the head do an extra 1d6 damage. |
+| [Big Hitter](./Big%20Hitter.md) | Hits to the head do an extra 1d6 damage. |
 
 
 # Notable Characters
@@ -73,7 +73,7 @@ The Homer 4000 is a [[Baseball Bat|baseball bat]] manufactured by [[Jerry's Spor
 # Related Weapons
 | Weapon                                                                          | Owner |
 | ------------------------------------------------------------------------------- | ----- |
-| [[3 World/Items/Equipment/Weapons/Melee Weapons/Baseball Bat.md\|Baseball Bat]] | \-    |
+| [Baseball Bat](./Baseball%20Bat.md) | \-    |
 
 
 # History

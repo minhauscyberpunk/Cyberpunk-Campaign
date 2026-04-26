@@ -11,17 +11,17 @@ basecorpo: 0
 lvlnorthoaks: 0
 locations:
   - "[[Westbrook]]"
-  - "[[North Oak]]"
+  - "[North Oak](./North%20Oak.md)"
   - "[[Rosemont House]]"
 luckincrement: 1
 reputationincrement: 1
 baseeducation: 6
 basenorthoaks: 0
 baseconversation: 6
-portrait: "[[CrewADOS.png]]"
+portrait: "[cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS.png)"
 character_type: Crew
 factions:
-  - "[[ZetaTech]]"
+  - "[ZetaTech](./ZetaTech.md)"
 totalhp: 10
 totalhumanity: 0
 seriouslywounded: 5
@@ -101,7 +101,7 @@ currenthumanity: 0
 ---
 
 > [!statblocks|wfit]
-> ![[CrewADOS.png|cover right circle hsmall wsmall lp]]
+> ![cover right circle hsmall wsmall lp](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS.png)
 > 
 >```meta-bind-button
 >style: "primary"
@@ -247,11 +247,11 @@ currenthumanity: 0
 >    value: "getMetadata('totalluck')"
 >```
 > # ADOS
-> **Role**: [[Netrunner|Netrunner]]
+> **Role**: [Netrunner](./Netrunner.md)
 > *Role Ability*:
 > 
 >> [!kith] Description
->> Angel Rosemont, scion of the [[ZetaTech]] corporation, moonlights as the [[Netrunner|Netrunner]], ADOS. Fresh out of school and taking a year's sabbatical to gain experience, will Angel return to the fold as an experienced corporate runner/exec, or will she get chewed up by [[3 World/Locations/North America/Night City/Night City|3 World/Locations/North America/Night City/Night City]] and spat out as ADOS?
+>> Angel Rosemont, scion of the [ZetaTech](./ZetaTech.md) corporation, moonlights as the [Netrunner](./Netrunner.md), ADOS. Fresh out of school and taking a year's sabbatical to gain experience, will Angel return to the fold as an experienced corporate runner/exec, or will she get chewed up by [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md) and spat out as ADOS?
 >---
 > 
 >> [!info|title-center] Stats
@@ -322,13 +322,13 @@ currenthumanity: 0
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[[English|English]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[[French|French]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlfrench]` | `VIEW[{int}+{lvlfrench}][math:basefrench]` |
->>>> | *[[Streetslang|Streetslang]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[English](./English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[French](./French.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlfrench]` | `VIEW[{int}+{lvlfrench}][math:basefrench]` |
+>>>> | *[Streetslang](./Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[[Little China|Little China]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
->>>> | *[[North Oak]]↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnorthoaks]` | `VIEW[{int}+{lvlnorthoaks}][math:basenorthoaks]` |
+>>>> | *[Little China](./Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *[North Oak](./North%20Oak.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnorthoaks]` | `VIEW[{int}+{lvlnorthoaks}][math:basenorthoaks]` |
 >>>> | *Corpo↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcorpo]` | `VIEW[{int}+{lvlcorpo}][math:basecorpo]` |
 >>>> | Science | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlscience]` | `VIEW[{int}+{lvlscience}][math:basescience]` |
 >>>> | Tactics | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvltactics]` | `VIEW[{int}+{lvltactics}][math:basetactics]` |
@@ -392,7 +392,7 @@ currenthumanity: 0
 
 ## Overview
 Full name: Angel Rosemont
-Class: [[Netrunner|Netrunner]]
+Class: [Netrunner](./Netrunner.md)
 Subclass: unknown
 Background: unknown
 Personality: unknown
@@ -402,11 +402,11 @@ Prized Possession: unknown
 Style: unknown
 Feelings about people: unknown
 ## Relationships
-[[Character Sheet - H3XX|Character Sheet - H3XX]] - ADOS is aware of H3XX by reputation, and also that H3XX has worked for [[ZetaTech]] in the past.
-[[Character Sheet - Crash|Character Sheet - Crash]] - Childhood rival/enemy
+[Character Sheet - H3XX](./Character%20Sheet%20-%20H3XX.md) - ADOS is aware of H3XX by reputation, and also that H3XX has worked for [ZetaTech](./ZetaTech.md) in the past.
+[Character Sheet - Crash](./Character%20Sheet%20-%20Crash.md) - Childhood rival/enemy
 ## Provided Character Background
-As the only daughter of two [[ZetaTech]] executives, Angel has never gone without absolute luxury and comfort. [[Eddies|Eddies]] talks in these circles, and what her parents couldn't offer her in love or affection, they paid tenfold in money. A private wing in her family's [[North Oak]] estate and a full staff of attendants was to be expected, of course. But with such a prestigious family, Angel never truly had a choice in her career or life. Pushed into the family business from her youth, she was writing code before she could even read what it said. As a result of her conditioning and augmentations, she quickly became an adept software developer. But there was no fun in that for her, no excitement to be had.
+As the only daughter of two [ZetaTech](./ZetaTech.md) executives, Angel has never gone without absolute luxury and comfort. [Eddies](./Eddies.md) talks in these circles, and what her parents couldn't offer her in love or affection, they paid tenfold in money. A private wing in her family's [North Oak](./North%20Oak.md) estate and a full staff of attendants was to be expected, of course. But with such a prestigious family, Angel never truly had a choice in her career or life. Pushed into the family business from her youth, she was writing code before she could even read what it said. As a result of her conditioning and augmentations, she quickly became an adept software developer. But there was no fun in that for her, no excitement to be had.
 Her real passion lied in netrunning - unleashing daemons on bothersome classmates or draining someone's bank account. Not for the money, merely for the thrill that she could.
-She began living a second life. There was Miss Angel Rosemont, the charming yet manipulative heir apparent to a large fortune and future executive of [[ZetaTech]]. Then there was ADOS, a cunning and meticulous [[Netrunner|Netrunner]] that fixers began to catch wind of. She started taking up odd jobs as ADOS, stealing compromising and embarrassing files of various celebrities, or fucking with rival companies to drag down their stock prices. Angel knew of these targets in a personal capacity, some of her targets were even close family friends. She got a kick out of knowing their secrets or seeing their professional lives take a hit. Life to her is a struggle for knowledge, and there is this satisfaction in having an advantage over someone else that drives her to continue.
+She began living a second life. There was Miss Angel Rosemont, the charming yet manipulative heir apparent to a large fortune and future executive of [ZetaTech](./ZetaTech.md). Then there was ADOS, a cunning and meticulous [Netrunner](./Netrunner.md) that fixers began to catch wind of. She started taking up odd jobs as ADOS, stealing compromising and embarrassing files of various celebrities, or fucking with rival companies to drag down their stock prices. Angel knew of these targets in a personal capacity, some of her targets were even close family friends. She got a kick out of knowing their secrets or seeing their professional lives take a hit. Life to her is a struggle for knowledge, and there is this satisfaction in having an advantage over someone else that drives her to continue.
 She is scheming, strategic and ruthless, a real diplomat. Angel is a respectable young woman, of course, so any suggestion of her second life as ADOS would be laughable on its face. She is fundamentally naive, however, she's never really faced any real threat to her life or god forbid, her reputation. She has never had any reason to take on any kind of physical fight, so she is woefully unprepared in genuine combat. She's used to working alone as ADOS, but networking is a core part of her life as Angel, so she could easily work with a team if that was beneficial to her. She wouldn't try to run the operation, merely to do her role and observe from the sidelines, influencing with her charm as opposed to intimidating or blackmail. She does a good job of covering her tracks as a saboteur, but if she's worked her magic on you, you've never even thought to question that there is anything deeper to her. But if her web of lies and deceit began to untangle, her natural wit and allure might not be enough to save her.
-She stands now at a crossroad. She's taken a sabbatical after graduating high school, ostensibly to develop her professional relationships but it's really to give her more time deepening her connections with fixers and building her resumè as a reliable runner. Once the year is over however, Angel will be swept into [[ZetaTech]] in some bullshit managerial role. But maybe her flirting with the illicit world of hacking for hire will see her shunned from her family, in hiding, or scrapped for augments and left dead in some alleyway? Or maybe ADOS will be headhunted for intelligence, and have the chance to turn this side thing into a career with the resources to match her ambition.
+She stands now at a crossroad. She's taken a sabbatical after graduating high school, ostensibly to develop her professional relationships but it's really to give her more time deepening her connections with fixers and building her resumè as a reliable runner. Once the year is over however, Angel will be swept into [ZetaTech](./ZetaTech.md) in some bullshit managerial role. But maybe her flirting with the illicit world of hacking for hire will see her shunned from her family, in hiding, or scrapped for augments and left dead in some alleyway? Or maybe ADOS will be headhunted for intelligence, and have the chance to turn this side thing into a career with the resources to match her ambition.

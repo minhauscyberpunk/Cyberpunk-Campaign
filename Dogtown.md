@@ -5,7 +5,7 @@ tags:
   - pacifica
   - dogtown
 aliases:
-parent_location: "[[Pacifica]]"
+parent_location: "[Pacifica](./Pacifica.md)"
 bordering_locations:
   - "[[Coastview]]"
   - "[[West Wind Estate]]"
@@ -16,27 +16,27 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Dogtown
->![[insert_image.png|wsmall cover]]
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[[Pacifica]]|
+>|Located In:|[Pacifica](./Pacifica.md)|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location                                                                                      | Location Type |
 > | --------------------------------------------------------------------------------------------- | ------------- |
-> | [[3 World/Locations/North America/Night City/Pacifica/West Wind Estate.md\|West Wind Estate]] | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Pacifica/Coastview.md\|Coastview]]               | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]                | Neighbourhood |
-> | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]                | District      |
-> | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                          | District      |
+> | [West Wind Estate](./West%20Wind%20Estate.md) | Neighbourhood |
+> | [Coastview](./Coastview.md)               | Neighbourhood |
+> | [Arroyo](./Arroyo.md)                | Neighbourhood |
+> | [Santo Domingo](./Santo%20Domingo.md)                | District      |
+> | [Badlands](./Badlands.md)                          | District      |
 > 
 
 # Summary
-Dogtown is a neighbourhood on the east side of [[Pacifica]], in the south of [[Night City|Night City]]. Dogtown is walled off from the outside world, and inside operates as a [[Combat Zone|Combat Zone]].
+Dogtown is a neighbourhood on the east side of [Pacifica](./Pacifica.md), in the south of [Night City](./Night%20City.md). Dogtown is walled off from the outside world, and inside operates as a [Combat Zone](Combat%20Zone.md).
 
 # History
 
@@ -74,4 +74,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![[MapPacifica2077.png|cover]]
+![cover](MapPacifica2077.png)
