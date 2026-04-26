@@ -31,7 +31,7 @@ name: Nepal
 
 >[!infobox|wsmall wikipedia left]
 ># Nepal
->![cover wfit center](x-system-filesassetsimageslocationsnepalvista2.jpg)
+>![cover wfit center](../../../X%20System%20Files/Assets/Images/Locations/NepalVista2.jpg)
 >
 >## Info
 >Nepal is a mountainous country in [[South Asia]].
@@ -39,7 +39,7 @@ name: Nepal
 >|||
 >|--:|:--|
 >|Type:|Country|
->|Located In:|[South Asia](south-asia.md)|
+>|Located In:|[South Asia](../South%20Asia.md)|
 >|Prestige:||
 >---
 >### Borders
@@ -77,5 +77,5 @@ Nepal borders [[India]] to the south, and [[China]] to the north.
 # Maps
 |                                                              |
 | ------------------------------------------------------------ |
-| ![800](x-system-filesassetsimagesmapsmapsouthasia.png) |
-| ![800](x-system-filesassetsimagesmapsmapnepal2077.png) |
+| ![800](../../../X%20System%20Files/Assets/Images/Maps/MapSouthAsia.png) |
+| ![800](../../../X%20System%20Files/Assets/Images/Maps/MapNepal2077.png) |

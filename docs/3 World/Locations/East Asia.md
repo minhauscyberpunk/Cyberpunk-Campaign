@@ -23,7 +23,7 @@ name: East Asia
 
 >[!infobox|wsmall wikipedia left]
 ># East Asia
->![cover wfit center](x-system-filesassetsimagesmapsmapeastasia2077.png)
+>![cover wfit center](../../X%20System%20Files/Assets/Images/Maps/MapEastAsia2077.png)
 >
 >## Info
 >East Asia is a region on the continent of Asia, in the Northern Hemisphere.
@@ -37,7 +37,7 @@ name: East Asia
 >### Borders
 > | Location Type | Location                                        |
 > | ------------- | ----------------------------------------------- |
-> | Region        | [South Asia](south-asia.md) |
+> | Region        | [South Asia](./South%20Asia.md) |
 > 
 
 # Description
@@ -46,7 +46,7 @@ East Asia is a region on the continent of Asia, in the Northern Hemisphere. It b
 # Notable Places
 | Location                                              | Location Type |
 | ----------------------------------------------------- | ------------- |
-| [Mongolia](east-asiamongolia.md) | Country       |
+| [Mongolia](./East%20Asia/Mongolia.md) | Country       |
 
 
 # Notable Characters
@@ -67,4 +67,4 @@ East Asia is a region on the continent of Asia, in the Northern Hemisphere. It b
 # Maps
 |                                                                 |
 | --------------------------------------------------------------- |
-| ![800](x-system-filesassetsimagesmapsmapeastasia2077.png) |
+| ![800](../../X%20System%20Files/Assets/Images/Maps/MapEastAsia2077.png) |

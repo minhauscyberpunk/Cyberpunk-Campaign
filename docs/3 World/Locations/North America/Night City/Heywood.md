@@ -38,7 +38,7 @@ name: Heywood
 
 >[!infobox|wsmall wikipedia left]
 ># Heywood
->![cover wfit center](x-system-filesassetsimageslocationscitycentercorporateplazaconcept1.webp)
+>![cover wfit center](../../../../X%20System%20Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp)
 >
 >## Info
 >Heywood is an inner-city district of [[Night City]] in a former [[Combat Zone]].
@@ -46,17 +46,17 @@ name: Heywood
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[Night City](night-city.md)|
+>|Located In:|[Night City](../Night%20City.md)|
 >|Prestige:|Medium|
 >---
 >### Borders
 > | Location Type | Location                                                                               |
 > | ------------- | -------------------------------------------------------------------------------------- |
-> | Sub-District  | [Charter Hill](westbrookcharter-hill.md) |
-> | Sub-District  | [Japantown](westbrookjapantown.md)       |
-> | District      | [Pacifica](pacifica.md)                   |
-> | District      | [City Center](city-center.md)             |
-> | District      | [Santo Domingo](santo-domingo.md)         |
+> | Sub-District  | [Charter Hill](./Westbrook/Charter%20Hill.md) |
+> | Sub-District  | [Japantown](./Westbrook/Japantown.md)       |
+> | District      | [Pacifica](./Pacifica.md)                   |
+> | District      | [City Center](./City%20Center.md)             |
+> | District      | [Santo Domingo](./Santo%20Domingo.md)         |
 > 
 
 # Description
@@ -67,9 +67,9 @@ Heywood occupies the area of the city that was Old [[Little China]] before the [
 # Notable Places
 | Location                                                                               | Location Type |
 | -------------------------------------------------------------------------------------- | ------------- |
-| [The Glen](heywoodthe-glen.md)           | Neighbourhood |
-| [Vista Del Rey](heywoodvista-del-rey.md) | Neighbourhood |
-| [Wellsprings](heywoodwellsprings.md)     | Neighbourhood |
+| [The Glen](./Heywood/The%20Glen.md)           | Neighbourhood |
+| [Vista Del Rey](./Heywood/Vista%20Del%20Rey.md) | Neighbourhood |
+| [Wellsprings](./Heywood/Wellsprings.md)     | Neighbourhood |
 
 
 # Notable Characters
@@ -80,8 +80,8 @@ Heywood occupies the area of the city that was Old [[Little China]] before the [
 # Gangs
 | Gang                                                           | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [6th Street Gang](factionsgangs6th-street-gang.md) | Low          | <ul><li>[Santo Domingo](3-worldlocationsnorth-americanight-citysanto-domingomd.md)</li><li>[Arroyo](3-worldlocationsnorth-americanight-citysanto-domingoarroyomd.md)</li><li>[Rancho Coronado](3-worldlocationsnorth-americanight-citysanto-domingorancho-coronadomd.md)</li><li>[Heywood](3-worldlocationsnorth-americanight-cityheywoodmd.md)</li><li>[Vista Del Rey](3-worldlocationsnorth-americanight-cityheywoodvista-del-reymd.md)</li><li>[The Glen](3-worldlocationsnorth-americanight-cityheywoodthe-glenmd.md)</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul> |
-| [Valentinos](factionsgangsvalentinos.md)           | Medium       | <ul><li>[Heywood](3-worldlocationsnorth-americanight-cityheywoodmd.md)</li><li>[The Glen](3-worldlocationsnorth-americanight-cityheywoodthe-glenmd.md)</li><li>[Vista Del Rey](3-worldlocationsnorth-americanight-cityheywoodvista-del-reymd.md)</li><li>[Wellsprings](3-worldlocationsnorth-americanight-cityheywoodwellspringsmd.md)</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul>                                                                                                                                                                                               |
+| [6th Street Gang](../../../Factions/Gangs/6th%20Street%20Gang.md) | Low          | <ul><li>[Santo Domingo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo.md.md)</li><li>[Arroyo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Arroyo.md.md)</li><li>[Rancho Coronado](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Rancho%20Coronado.md.md)</li><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
+| [Valentinos](../../../Factions/Gangs/Valentinos.md)           | Medium       | <ul><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[Wellsprings](3%20World/Locations/North%20America/Night%20City/Heywood/Wellsprings.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul>                                                                                                                                                                                               |
 
 
 # History
@@ -92,4 +92,4 @@ Heywood occupies the area of the city that was Old [[Little China]] before the [
 # Maps
 |                                                                 |
 | --------------------------------------------------------------- |
-| ![800](x-system-filesassetsimagesmapsmapheywood2077.webp) |
+| ![800](../../../../X%20System%20Files/Assets/Images/Maps/MapHeywood2077.webp) |

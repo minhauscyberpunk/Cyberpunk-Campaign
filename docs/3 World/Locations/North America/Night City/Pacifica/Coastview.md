@@ -5,7 +5,7 @@ tags:
   - pacifica
   - coastview
 aliases:
-parent_location: "[Pacifica](pacifica.md)"
+parent_location: "[Pacifica](../Pacifica.md)"
 bordering_locations:
   - "[[West Wind Estate]]"
   - "[[Dogtown]]"
@@ -16,28 +16,28 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Coastview
->![wsmall cover](insertimage.png)
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Pacifica](pacifica.md)|
+>|Located In:|[Pacifica](../Pacifica.md)|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location                                                                                      | Location Type |
 > | --------------------------------------------------------------------------------------------- | ------------- |
-> | [West Wind Estate](west-wind-estate.md) | Neighbourhood |
-> | [Dogtown](dogtown.md)                   | Neighbourhood |
-> | [The Glen](heywoodthe-glen.md)                  | Neighbourhood |
-> | [Arroyo](santo-domingoarroyo.md)                | Neighbourhood |
-> | [Santo Domingo](santo-domingo.md)                | District      |
-> | [Heywood](heywood.md)                            | District      |
+> | [West Wind Estate](./West%20Wind%20Estate.md) | Neighbourhood |
+> | [Dogtown](./Dogtown.md)                   | Neighbourhood |
+> | [The Glen](../Heywood/The%20Glen.md)                  | Neighbourhood |
+> | [Arroyo](../Santo%20Domingo/Arroyo.md)                | Neighbourhood |
+> | [Santo Domingo](../Santo%20Domingo.md)                | District      |
+> | [Heywood](../Heywood.md)                            | District      |
 > 
 
 # Summary
-Coastview is a neighbourhood on the north side of [Pacifica](pacifica.md), in the south of [Night City](night-city.md).
+Coastview is a neighbourhood on the north side of [Pacifica](../Pacifica.md), in the south of [Night City](../../Night%20City.md).
 
 # History
 
@@ -72,8 +72,8 @@ SORT location_type DESC, file.link ASC
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Voodoo Boys](factionsgangsvoodoo-boys.md) | Medium       | <ul><li>[Pacifica](3-worldlocationsnorth-americanight-citypacificamd.md)</li><li>[Coastview](3-worldlocationsnorth-americanight-citypacificacoastviewmd.md)</li><li>[West Wind Estate](3-worldlocationsnorth-americanight-citypacificawest-wind-estatemd.md)</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul> |
+| [Voodoo Boys](../../../../Factions/Gangs/Voodoo%20Boys.md) | Medium       | <ul><li>[Pacifica](3%20World/Locations/North%20America/Night%20City/Pacifica.md.md)</li><li>[Coastview](3%20World/Locations/North%20America/Night%20City/Pacifica/Coastview.md.md)</li><li>[West Wind Estate](3%20World/Locations/North%20America/Night%20City/Pacifica/West%20Wind%20Estate.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # Map
-![cover](mappacifica2077.png)
+![cover](MapPacifica2077.png)

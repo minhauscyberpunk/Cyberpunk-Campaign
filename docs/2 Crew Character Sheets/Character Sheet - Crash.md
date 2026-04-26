@@ -10,7 +10,7 @@ lvlevasion: 4
 basecorpo: 0
 lvlmongolian: 4
 lvlnightclubs: 3
-portrait: "[cover right circle hsmall wsmall lp](x-system-filesassetsimagescharacterscrewcrewcrash.png)"
+portrait: "[cover right circle hsmall wsmall lp](../X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash.png)"
 character_type: Crew
 factions:
 locations:
@@ -106,7 +106,7 @@ currenthumanity: 0
 ---
 
 > [!statblocks|wfit]
-> ![cover right circle hsmall wsmall lp](x-system-filesassetsimagescharacterscrewcrewcrash.png)
+> ![cover right circle hsmall wsmall lp](../X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash.png)
 > 
 >```meta-bind-button
 >style: "primary"
@@ -252,11 +252,11 @@ currenthumanity: 0
 >    value: "getMetadata('totalluck')"
 >```
 > # Crash
-> **Role**: [Rocker](4-rules-and-mechanicsrolesrocker.md)
+> **Role**: [Rocker](../4%20Rules%20and%20Mechanics/Roles/Rocker.md)
 > *Role Ability*: Musician
 > 
 >> [!kith] Description
->> After turning her back on her corpo upbringing, Crash hit the streets and got by as the lead guitarist and singer of [8.20.2023](3-worldfactionsbands8202023.md), but has made more of a name for herself as the solo act, CrashOut. She has a cyberguitar implanted in her left arm, and she can be found rocking the bars of [Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md) or passed out in their green rooms.
+>> After turning her back on her corpo upbringing, Crash hit the streets and got by as the lead guitarist and singer of [8.20.2023](../3%20World/Factions/Bands/8.20.2023.md), but has made more of a name for herself as the solo act, CrashOut. She has a cyberguitar implanted in her left arm, and she can be found rocking the bars of [Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md) or passed out in their green rooms.
 >---
 > 
 >> [!info|title-center] Stats
@@ -327,12 +327,12 @@ currenthumanity: 0
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[English](4-rules-and-mechanicslanguagesenglish.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[Mongolian](4-rules-and-mechanicslanguagesmongolian.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmongolian]` | `VIEW[{int}+{lvlmongolian}][math:basemongolian]` |
->>>> | *[Streetslang](4-rules-and-mechanicslanguagesstreetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[English](../4%20Rules%20and%20Mechanics/Languages/English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[Mongolian](../4%20Rules%20and%20Mechanics/Languages/Mongolian.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmongolian]` | `VIEW[{int}+{lvlmongolian}][math:basemongolian]` |
+>>>> | *[Streetslang](../4%20Rules%20and%20Mechanics/Languages/Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *[Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
 >>>> | *Nightclubs↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnightclubs]` | `VIEW[{int}+{lvlnightclubs}][math:basenightclubs]` |
 >>>> | *Corpo↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcorpo]` | `VIEW[{int}+{lvlcorpo}][math:basecorpo]` |
 >>>> | Science | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlscience]` | `VIEW[{int}+{lvlscience}][math:basescience]` |
@@ -398,20 +398,20 @@ currenthumanity: 0
 
 ## Overview
 Full name: Unknown
-Class: [Rocker](4-rules-and-mechanicsrolesrocker.md)
+Class: [Rocker](../4%20Rules%20and%20Mechanics/Roles/Rocker.md)
 Subclass: Musician
-Background: [East Asia](3-worldlocationseast-asia.md)/[Mongolia](3-worldlocationseast-asiamongolia.md)
+Background: [East Asia](../3%20World/Locations/East%20Asia.md)/[Mongolia](../3%20World/Locations/East%20Asia/Mongolia.md)
 Personality: Silly/fluff-headed
 Values: Friendship
 Cares for: Herself
-Prized Possession: [Crash's Guitar Pick](crashs-guitar-pick.md)
-Style: [Nomad Leathers](nomad-leathers.md)/Punk
+Prized Possession: [Crash's Guitar Pick](Crash's%20Guitar%20Pick.md)
+Style: [Nomad Leathers](Nomad%20Leathers.md)/Punk
 Feelings about people: Prefers to stay neutral
 ## Relationships
-[Character Sheet - Dr. Theory](character-sheet-dr-theory.md) - [Character Sheet - Dr. Theory](character-sheet-dr-theory.md) knows Crash after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
-[Character Sheet - ADOS](character-sheet-ados.md) - Crash grew up with [Character Sheet - ADOS](character-sheet-ados.md), but knows her only as Angel Rosemont, the ZetaTech scion. The two have a rivalry/they are enemies.
+[Character Sheet - Dr. Theory](./Character%20Sheet%20-%20Dr.%20Theory.md) - [Character Sheet - Dr. Theory](./Character%20Sheet%20-%20Dr.%20Theory.md) knows Crash after he sold her drugs while she was playing a gig under an overpass. He has continued to be her plug but they are otherwise friends.
+[Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md) - Crash grew up with [Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md), but knows her only as Angel Rosemont, the ZetaTech scion. The two have a rivalry/they are enemies.
 
 ## Character Background
-Crash grew up in the walled Corporate Zone (which has now been largely replaced by [North Oak](3-worldlocationsnorth-americanight-citywestbrooknorth-oak.md) and [Charter Hill](3-worldlocationsnorth-americanight-citywestbrookcharter-hill.md)), the daughter of two corporate executives. Crash's father however was a revolutionary infiltrator, intent on bringing the corp down from the inside. He was found out, reported by Crash's mother, and executed, and Crash has been estranged from her mother ever since. She was offered to stay and join the fold and accept a lucrative life as a corporate bureaucrat, but she blasted her way out and hit the streets as a musician.
+Crash grew up in the walled Corporate Zone (which has now been largely replaced by [North Oak](../3%20World/Locations/North%20America/Night%20City/Westbrook/North%20Oak.md) and [Charter Hill](../3%20World/Locations/North%20America/Night%20City/Westbrook/Charter%20Hill.md)), the daughter of two corporate executives. Crash's father however was a revolutionary infiltrator, intent on bringing the corp down from the inside. He was found out, reported by Crash's mother, and executed, and Crash has been estranged from her mother ever since. She was offered to stay and join the fold and accept a lucrative life as a corporate bureaucrat, but she blasted her way out and hit the streets as a musician.
 
-She was the singer and guitarist of [8.20.2023](3-worldfactionsbands8202023.md), a punk band active in [Watson](3-worldlocationsnorth-americanight-citywatson.md). She has found more success as a solo act, with a cyber-guitar in her left arm. She has an apartment in [Megabuilding H10](3-worldlocationsnorth-americanight-citybuildingsmegabuilding-h10.md) in [Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md), but she will often crash in the green room of the clubs she plays in.
+She was the singer and guitarist of [8.20.2023](../3%20World/Factions/Bands/8.20.2023.md), a punk band active in [Watson](../3%20World/Locations/North%20America/Night%20City/Watson.md). She has found more success as a solo act, with a cyber-guitar in her left arm. She has an apartment in [Megabuilding H10](3%20World/Locations/North%20America/Night%20City/Buildings/Megabuilding%20H10.md) in [Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md), but she will often crash in the green room of the clubs she plays in.

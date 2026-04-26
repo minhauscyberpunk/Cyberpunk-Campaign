@@ -5,7 +5,7 @@ tags:
   - city_center
   - downtown
 aliases:
-parent_location: "[City Center](city-center.md)"
+parent_location: "[City Center](../City%20Center.md)"
 bordering_locations:
   - "[[Corporate Plaza]]"
   - "[[Wellsprings]]"
@@ -15,30 +15,30 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Downtown
->![wsmall cover](insertimage.png)
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[City Center](city-center.md)|
+>|Located In:|[City Center](../City%20Center.md)|
 >|Prestige:|High|
 >---
 >### Borders
 > | Location                                                                                       | Location Type |
 > | ---------------------------------------------------------------------------------------------- | ------------- |
-> | [Little China](watsonlittle-china.md)            | Sub-District  |
-> | [Wellsprings](heywoodwellsprings.md)             | Neighbourhood |
-> | [Corporate Plaza](corporate-plaza.md) | Neighbourhood |
-> | [Watson](watson.md)                               | District      |
-> | [Heywood](heywood.md)                             | District      |
+> | [Little China](../Watson/Little%20China.md)            | Sub-District  |
+> | [Wellsprings](../Heywood/Wellsprings.md)             | Neighbourhood |
+> | [Corporate Plaza](./Corporate%20Plaza.md) | Neighbourhood |
+> | [Watson](../Watson.md)                               | District      |
+> | [Heywood](../Heywood.md)                             | District      |
 > 
 
 # Summary
-Downtown is a neighbourhood on the west side of the [City Center](city-center.md), in the middle of [Night City](night-city.md).
+Downtown is a neighbourhood on the west side of the [City Center](../City%20Center.md), in the middle of [Night City](../../Night%20City.md).
 
 # History
-- [2074-02-19 17.00 - ADOS Intro](2074-02-19-1700-ados-intro.md)
+- [2074-02-19 17.00 - ADOS Intro](../../../../../../2074-02-19%2017.00%20-%20ADOS%20Intro.md)
 
 
 # Notable Places
@@ -66,7 +66,7 @@ SORT location_type DESC, file.link ASC
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Angel Rosemont](characterscrewangel-rosemont.md) | ![100](x-system-filesassetsimagescharacterscrewcrewadossticker.png) | Crew           | <ul><li>[ZetaTech](3-worldfactionscorpszetatechmd.md)</li><li>[Crew](3-worldfactionscrewmd.md)</li></ul> |
+| [Angel Rosemont](../../../../Characters/Crew/Angel%20Rosemont.md) | ![100](../../../../../X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
 
 
 # Gangs
@@ -75,4 +75,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![cover](mapcitycenter2077.png)
+![cover](MapCityCenter2077.png)

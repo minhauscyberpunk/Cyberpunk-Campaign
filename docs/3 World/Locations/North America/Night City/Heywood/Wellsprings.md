@@ -5,7 +5,7 @@ tags:
   - heywood
   - wellsprings
 aliases:
-parent_location: "[Heywood](heywood.md)"
+parent_location: "[Heywood](../Heywood.md)"
 bordering_locations:
   - "[[The Glen]]"
   - "[[Downtown]]"
@@ -14,25 +14,25 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Wellsprings
->![wsmall cover](insertimage.png)
+>![wsmall cover](insert_image.png)
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Heywood](heywood.md)|
+>|Located In:|[Heywood](../Heywood.md)|
 >|Prestige:|High|
 >---
 >### Borders
 > | Location                                                                         | Location Type |
 > | -------------------------------------------------------------------------------- | ------------- |
-> | [Downtown](city-centerdowntown.md) | Neighbourhood |
-> | [The Glen](the-glen.md)     | Neighbourhood |
-> | [City Center](city-center.md)       | District      |
+> | [Downtown](../City%20Center/Downtown.md) | Neighbourhood |
+> | [The Glen](./The%20Glen.md)     | Neighbourhood |
+> | [City Center](../City%20Center.md)       | District      |
 > 
 
 # Summary
-Wellsprings is a neighbourhood on the west side of [Heywood](heywood.md), in the inner south of [Night City](night-city.md).
+Wellsprings is a neighbourhood on the west side of [Heywood](../Heywood.md), in the inner south of [Night City](../../Night%20City.md).
 
 # History
 
@@ -67,8 +67,8 @@ SORT location_type DESC, file.link ASC
 # Gangs
 | Gang                                                 | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ---------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Valentinos](factionsgangsvalentinos.md) | Medium       | <ul><li>[Heywood](3-worldlocationsnorth-americanight-cityheywoodmd.md)</li><li>[The Glen](3-worldlocationsnorth-americanight-cityheywoodthe-glenmd.md)</li><li>[Vista Del Rey](3-worldlocationsnorth-americanight-cityheywoodvista-del-reymd.md)</li><li>[Wellsprings](3-worldlocationsnorth-americanight-cityheywoodwellspringsmd.md)</li><li>[Night City](3-worldlocationsnorth-americanight-citymd.md)</li></ul> |
+| [Valentinos](../../../../Factions/Gangs/Valentinos.md) | Medium       | <ul><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[Wellsprings](3%20World/Locations/North%20America/Night%20City/Heywood/Wellsprings.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # Map
-![cover](mapheywood2077.png)
+![cover](MapHeywood2077.png)
