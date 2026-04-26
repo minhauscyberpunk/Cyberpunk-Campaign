@@ -14,7 +14,7 @@ lvlenglish: 1
 lvlnepali: 1
 locations:
   - "[[Watson]]"
-  - "[Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md)"
+  - "[Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md)"
 totalhp: 10
 totalhumanity: 0
 luckincrement: 1
@@ -96,12 +96,12 @@ baseplayinstrument: 0
 currenthp: 10
 currentluck: ""
 currenthumanity: 0
-portrait: "[cover right circle hsmall wsmall lp](x-system-filesassetsimagescharacterscrewcrewasher.png)"
+portrait: "[cover right circle hsmall wsmall lp](../X%20System%20Files/Assets/Images/Characters/Crew/CrewAsher.png)"
 character_type: Crew
 ---
 
 > [!statblocks|wfit]
-> ![cover right circle hsmall wsmall lp](x-system-filesassetsimagescharacterscrewcrewasher.png)
+> ![cover right circle hsmall wsmall lp](../X%20System%20Files/Assets/Images/Characters/Crew/CrewAsher.png)
 > 
 >```meta-bind-button
 >style: "primary"
@@ -247,11 +247,11 @@ character_type: Crew
 >    value: "getMetadata('totalluck')"
 >```
 > # Asher
-> **Role**: [Solo](4-rules-and-mechanicsrolessolo.md)
+> **Role**: [Solo](../4%20Rules%20and%20Mechanics/Roles/Solo.md)
 > *Role Ability*:
 > 
 >> [!kith] Description
->> Asher has proven herself to be a lethal [solo](4-rules-and-mechanicsrolessolo.md) taking gigs directly from corps. She has been geared up by [Militech](3-worldfactionscorpsmilitech.md) and sports a cyberarm with a [Mantis Blade](mantis-blade.md). However, after taking a job for [Kang Tao](3-worldfactionscorpskang-tao.md) and operating against [Militech](3-worldfactionscorpsmilitech.md), she has been hunted by them ever since. Asher works hard to keep her professional life separate from her personal life in order to protect [her sister](ashers-sister.md).
+>> Asher has proven herself to be a lethal [solo](../4%20Rules%20and%20Mechanics/Roles/Solo.md) taking gigs directly from corps. She has been geared up by [Militech](../3%20World/Factions/Corps/Militech.md) and sports a cyberarm with a [Mantis Blade](Mantis%20Blade.md). However, after taking a job for [Kang Tao](../3%20World/Factions/Corps/Kang%20Tao.md) and operating against [Militech](../3%20World/Factions/Corps/Militech.md), she has been hunted by them ever since. Asher works hard to keep her professional life separate from her personal life in order to protect [her sister](Asher's%20Sister.md).
 >---
 > 
 >> [!info|title-center] Stats
@@ -292,7 +292,7 @@ character_type: Crew
 >>> ---
 >>> | Weapon | Skill | Base | DMG | Ammo | ROF | One Handed | Concealable |
 >>> | -------: | ----: | :----: | :----: | :-----: | :----: | :------------: | :-----------: |
->>> | [Mantis Blade](mantis-blade.md) | MeleeWeap | - | 3d6 | - | 2 | Y | Y |
+>>> | [Mantis Blade](Mantis%20Blade.md) | MeleeWeap | - | 3d6 | - | 2 | Y | Y |
 > 
 >> [!abstract|title-center clean]- Skills
 >> **Total level points spent:** `VIEW[{lvlconcentration} + {lvlconcealreveal} + {lvllipreading} + {lvlperception} + {lvltracking} + {lvldrivelandvehicle} + {lvlpilotairvehicle} + {lvlpilotseavehicle} + {lvlriding} + {lvlaccounting} + {lvlanimalhandling} + {lvlbureaucracy} + {lvlbusiness} + {lvlcomposition} + {lvlcriminology} + {lvlcryptography} + {lvldeduction} + {lvleducation} + {lvlgamble} + {lvllanguage} + {lvllibrarysearch} + {lvllocalexpert} + {lvlscience} + {lvltactics} + {lvlwildernesssurvival} + {lvlbrawling} + {lvlevasion} + {lvlmartialarts} + {lvlmeleeweapon} + {lvlathletics} + {lvlcontortionist} + {lvldance} + {lvlendurance} + {lvlresisttorturedrugs} + {lvlstealth} + {lvlarchery} + {lvlautofire} + {lvlhandgun} + {lvlheavyweapons} + {lvlshoulderarms} + {lvlbribery} + {lvlconversation} + {lvlhumanperception} + {lvlinterrogation} + {lvlpersuasion} + {lvlpersonalgrooming} + {lvlstreetwise} + {lvltrading} + {lvlwardrobestyle} + {lvlairvehicletech} + {lvlbasictech} + {lvlcybertech} + {lvldemolitions} + {lvlelectronics} + {lvlfirstaid} + {lvlforgery} + {lvllandvehicletech} + {lvlpaintdrawsculpt} + {lvlparamedic} + {lvlphotographyfilm} + {lvlpicklock} + {lvlpickpocket} + {lvlseavehicletech} + {lvlweaponstech} + {lvlacting} + {lvlplayinstrument}]` / 90
@@ -322,13 +322,13 @@ character_type: Crew
 >>>> | Education | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvleducation]` | `VIEW[{int}+{lvleducation}][math:baseeducation]` |
 >>>> | Gamble | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlgamble]` | `VIEW[{int}+{lvlgamble}][math:basegamble]` |
 >>>> | Language | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllanguage]` | `VIEW[{int}+{lvllanguage}][math:baselanguage]` |
->>>> | *[English](4-rules-and-mechanicslanguagesenglish.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
->>>> | *[Nepali](nepali.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnepali]` | `VIEW[{int}+{lvlnepali}][math:basenepali]` |
->>>> | *[Streetslang](4-rules-and-mechanicslanguagesstreetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
+>>>> | *[English](../4%20Rules%20and%20Mechanics/Languages/English.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlenglish]` | `VIEW[{int}+{lvlenglish}][math:baseenglish]` |
+>>>> | *[Nepali](Nepali.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlnepali]` | `VIEW[{int}+{lvlnepali}][math:basenepali]` |
+>>>> | *[Streetslang](../4%20Rules%20and%20Mechanics/Languages/Streetslang.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlstreetslang]` | `VIEW[{int}+{lvlstreetslang}][math:basestreetslang]` |
 >>>> | Library Search | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllibrarysearch]` | `VIEW[{int}+{lvllibrarysearch}][math:baselibrarysearch]` |
 >>>> | Local Expert | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllocalexpert]` | `VIEW[{int}+{lvllocalexpert}][math:baselocalexpert]` |
->>>> | *[Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
->>>> | *[Megabuilding](megabuilding.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmegabuilding]` | `VIEW[{int}+{lvlmegabuilding}][math:basemegabuilding]` |
+>>>> | *[Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvllittlechina]` | `VIEW[{int}+{lvllittlechina}][math:baselittlechina]` |
+>>>> | *[Megabuilding](Megabuilding.md)↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlmegabuilding]` | `VIEW[{int}+{lvlmegabuilding}][math:basemegabuilding]` |
 >>>> | *Corpo↵* | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlcorpo]` | `VIEW[{int}+{lvlcorpo}][math:basecorpo]` |
 >>>> | Science | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvlscience]` | `VIEW[{int}+{lvlscience}][math:basescience]` |
 >>>> | Tactics | INT `VIEW[{int}]` | `INPUT[inlineSelect(defaultValue(0),option(0),option(1),option(2),option(3),option(4),option(5),option(6)):lvltactics]` | `VIEW[{int}+{lvltactics}][math:basetactics]` |
@@ -392,24 +392,24 @@ character_type: Crew
 
 ## Overview
 Full name: unknown
-Class: [Solo](4-rules-and-mechanicsrolessolo.md)
+Class: [Solo](../4%20Rules%20and%20Mechanics/Roles/Solo.md)
 Subclass: Freelance Black Ops
-Background: [South Asia](3-worldlocationssouth-asia.md)/[Nepal](3-worldlocationssouth-asianepal.md)
+Background: [South Asia](../3%20World/Locations/South%20Asia.md)/[Nepal](../3%20World/Locations/South%20Asia/Nepal.md)
 Personality: Arrogant, proud, aloof
 Values: Love
 Cares for: Sister
-Prized Possession: [Asher's Jacket](3-worlditemsequipmentclothesashers-jacket.md)
-Style: [Asia Pop](3-worldculturefashionasia-pop.md)
+Prized Possession: [Asher's Jacket](../3%20World/Items/Equipment/Clothes/Asher's%20Jacket.md)
+Style: [Asia Pop](../3%20World/Culture/Fashion/Asia%20Pop.md)
 Feelings about people: Nuclear protective/short fuse caretaker
 ## Relationships
 Sister
 Old childhood friend
 Former lover
 Circumstantial friend/one sided friendship
-[Character Sheet - H3XX](character-sheet-h3xx.md) - Has worked with in the past
-[Character Sheet - ADOS](character-sheet-ados.md) - Has worked in corporate spaces in the past, including for [ZetaTech](3-worldfactionscorpszetatech.md) and is *aware* of [ADOS](character-sheet-ados.md) as a person. She is unaware that Angel moonlights as a Netrunner.
+[Character Sheet - H3XX](./Character%20Sheet%20-%20H3XX.md) - Has worked with in the past
+[Character Sheet - ADOS](./Character%20Sheet%20-%20ADOS.md) - Has worked in corporate spaces in the past, including for [ZetaTech](../3%20World/Factions/Corps/ZetaTech.md) and is *aware* of [ADOS](./Character%20Sheet%20-%20ADOS.md) as a person. She is unaware that Angel moonlights as a Netrunner.
 ## Character Background
-Asher grew up in [Megabuilding H10](3-worldlocationsnorth-americanight-citybuildingsmegabuilding-h10.md) as a [Little China](3-worldlocationsnorth-americanight-citywatsonlittle-china.md) local. Her parents had emigrated from [Nepal](3-worldlocationssouth-asianepal.md) during the [Time of the Red](3-worldeventshistorytime-of-the-red.md) and settled in the bowels of the then-new Megabuilding. Unable to afford much, the only thing Asher has to remember them is her [jacket](3-worlditemsequipmentclothesashers-jacket.md): her parents were lost in the building’s service halls after a flood, and she hasn’t seen them since.
-Asher had to learn to defend herself and her sister as a megabuilding rat, specialising in close combat with a knife tucked up her sleeve. A few lucky gigs as a teenager led to her running bodyguard for a [Militech](3-worldfactionscorpsmilitech.md) exec’s son, a job she was rewarded for with some [top notch cyberware](mantis-blade.md). Ever since, she has made a name for herself in as Corpo black-ops, with a [Mantis Blade](mantis-blade.md) on her right arm replacing her old home-fashioned knives. She is as ruthless on the job as she is when defending [her sister](ashers-sister.md): to her, the money she earns is as much the protection she provides as any physical means are. Her decent stream of income has paid for her [van](ashers-van.md) that she uses as a base: it is relatively well equipped and cozy. She also covers rent for her sister’s apartment to keep her off the streets; she checks in occasionally but is careful to not bring any heat to her sister’s home by staying too close.
-Her ruthlessness on the job has earned her a reputation that she would rather shed, to shield her sister from that life, and to make sure harm doesn’t befall her. Nonetheless, [Militech](3-worldfactionscorpsmilitech.md) in particular has a bone to pick with her, after she turned her back on them for a better paying gig with [Kang Tao](3-worldfactionscorpskang-tao.md). At this point, she has cut down more [Militech](3-worldfactionscorpsmilitech.md) mercs with their own mantis blade than she ever cut down for them.
-While Asher sees red when her loved ones are put in harm’s way, after she has been crossed she prefers to carefully and indirectly backstab whoever wronged her so as to not add to her growing reputation among the solos of [Night City](3-worldlocationsnorth-americanight-citynight-city.md).
+Asher grew up in [Megabuilding H10](3%20World/Locations/North%20America/Night%20City/Buildings/Megabuilding%20H10.md) as a [Little China](../3%20World/Locations/North%20America/Night%20City/Watson/Little%20China.md) local. Her parents had emigrated from [Nepal](../3%20World/Locations/South%20Asia/Nepal.md) during the [Time of the Red](../3%20World/Events/History/Time%20of%20the%20Red.md) and settled in the bowels of the then-new Megabuilding. Unable to afford much, the only thing Asher has to remember them is her [jacket](../3%20World/Items/Equipment/Clothes/Asher's%20Jacket.md): her parents were lost in the building’s service halls after a flood, and she hasn’t seen them since.
+Asher had to learn to defend herself and her sister as a megabuilding rat, specialising in close combat with a knife tucked up her sleeve. A few lucky gigs as a teenager led to her running bodyguard for a [Militech](../3%20World/Factions/Corps/Militech.md) exec’s son, a job she was rewarded for with some [top notch cyberware](Mantis%20Blade.md). Ever since, she has made a name for herself in as Corpo black-ops, with a [Mantis Blade](Mantis%20Blade.md) on her right arm replacing her old home-fashioned knives. She is as ruthless on the job as she is when defending [her sister](Asher's%20Sister.md): to her, the money she earns is as much the protection she provides as any physical means are. Her decent stream of income has paid for her [van](Asher's%20Van.md) that she uses as a base: it is relatively well equipped and cozy. She also covers rent for her sister’s apartment to keep her off the streets; she checks in occasionally but is careful to not bring any heat to her sister’s home by staying too close.
+Her ruthlessness on the job has earned her a reputation that she would rather shed, to shield her sister from that life, and to make sure harm doesn’t befall her. Nonetheless, [Militech](../3%20World/Factions/Corps/Militech.md) in particular has a bone to pick with her, after she turned her back on them for a better paying gig with [Kang Tao](../3%20World/Factions/Corps/Kang%20Tao.md). At this point, she has cut down more [Militech](../3%20World/Factions/Corps/Militech.md) mercs with their own mantis blade than she ever cut down for them.
+While Asher sees red when her loved ones are put in harm’s way, after she has been crossed she prefers to carefully and indirectly backstab whoever wronged her so as to not add to her growing reputation among the solos of [Night City](3%20World/Locations/North%20America/Night%20City/Night%20City.md).
