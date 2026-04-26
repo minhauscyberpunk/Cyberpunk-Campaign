@@ -33,7 +33,7 @@ name: Pacifica
 
 >[!infobox|wsmall wikipedia left]
 ># Pacifica
->![[X System Files/Assets/Images/Locations/PacificaCoastviewConcept1.webp|cover wfit center]]
+>![cover wfit center](./X%20System%20Files/Assets/Images/Locations/PacificaCoastviewConcept1.webp)
 >
 >## Info
 >Pacifica is an underdeveloped district on the beaches in the south of [[Night City]].
@@ -41,15 +41,15 @@ name: Pacifica
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[[3 World/Locations/North America/Night City.md|Night City]]|
+>|Located In:|[Night City](./Night%20City.md)|
 >|Prestige:|Very Low|
 >---
 >### Borders
 > | Location Type | Location                                                                       |
 > | ------------- | ------------------------------------------------------------------------------ |
-> | District      | [[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]] |
-> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]           |
-> | District      | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]             |
+> | District      | [Santo Domingo](./Santo%20Domingo.md) |
+> | District      | [Badlands](./Badlands.md)           |
+> | District      | [Heywood](./Heywood.md)             |
 > 
 
 # Description
@@ -60,9 +60,9 @@ Pacifica was once intended to be a seaside jewel of [[Night City]] and a playgro
 # Notable Places
 | Location                                                                                      | Location Type |
 | --------------------------------------------------------------------------------------------- | ------------- |
-| [[3 World/Locations/North America/Night City/Pacifica/Coastview.md\|Coastview]]               | Neighbourhood |
-| [[3 World/Locations/North America/Night City/Pacifica/Dogtown.md\|Dogtown]]                   | Neighbourhood |
-| [[3 World/Locations/North America/Night City/Pacifica/West Wind Estate.md\|West Wind Estate]] | Neighbourhood |
+| [Coastview](./Coastview.md)               | Neighbourhood |
+| [Dogtown](./Dogtown.md)                   | Neighbourhood |
+| [West Wind Estate](./West%20Wind%20Estate.md) | Neighbourhood |
 
 
 # Notable Characters
@@ -73,7 +73,7 @@ Pacifica was once intended to be a seaside jewel of [[Night City]] and a playgro
 # Gangs
 | Gang                                                   | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Factions/Gangs/Voodoo Boys.md\|Voodoo Boys]] | Medium       | <ul><li>[[3 World/Locations/North America/Night City/Pacifica.md\|Pacifica]]</li><li>[[3 World/Locations/North America/Night City/Pacifica/Coastview.md\|Coastview]]</li><li>[[3 World/Locations/North America/Night City/Pacifica/West Wind Estate.md\|West Wind Estate]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
+| [Voodoo Boys](./Voodoo%20Boys.md) | Medium       | <ul><li>[Pacifica](3%20World/Locations/North%20America/Night%20City/Pacifica.md.md)</li><li>[Coastview](3%20World/Locations/North%20America/Night%20City/Pacifica/Coastview.md.md)</li><li>[West Wind Estate](3%20World/Locations/North%20America/Night%20City/Pacifica/West%20Wind%20Estate.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
 
 
 # History
@@ -84,4 +84,4 @@ Pacifica was once intended to be a seaside jewel of [[Night City]] and a playgro
 # Maps
 |                                                                  |
 | ---------------------------------------------------------------- |
-| ![[X System Files/Assets/Images/Maps/MapPacifica2077.webp\|800]] |
+| ![800](./X%20System%20Files/Assets/Images/Maps/MapPacifica2077.webp) |
