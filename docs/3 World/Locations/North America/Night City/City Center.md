@@ -36,7 +36,7 @@ name: City Center
 
 >[!infobox|wsmall wikipedia left]
 ># City Center
->![cover wfit center](x-system-filesassetsimageslocationscitycentercorporateplazaconcept1.webp)
+>![cover wfit center](../../../../X%20System%20Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp)
 >
 >## Info
 >City Center is [[Night City|Night City's]] economic and geographical core.
@@ -44,18 +44,18 @@ name: City Center
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[Night City](night-city.md)|
+>|Located In:|[Night City](../Night%20City.md)|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location Type | Location                                                                               |
 > | ------------- | -------------------------------------------------------------------------------------- |
-> | Sub-District  | [Little China](watsonlittle-china.md)    |
-> | Sub-District  | [Charter Hill](westbrookcharter-hill.md) |
-> | Sub-District  | [Japantown](westbrookjapantown.md)       |
-> | District      | [Watson](watson.md)                       |
-> | District      | [Heywood](heywood.md)                     |
-> | District      | [Westbrook](westbrook.md)                 |
+> | Sub-District  | [Little China](./Watson/Little%20China.md)    |
+> | Sub-District  | [Charter Hill](./Westbrook/Charter%20Hill.md) |
+> | Sub-District  | [Japantown](./Westbrook/Japantown.md)       |
+> | District      | [Watson](./Watson.md)                       |
+> | District      | [Heywood](./Heywood.md)                     |
+> | District      | [Westbrook](./Westbrook.md)                 |
 > 
 
 # Description
@@ -66,14 +66,14 @@ City Center is the business heart of [[Night City]], and some of the world's mos
 # Notable Places
 | Location                                                                                       | Location Type |
 | ---------------------------------------------------------------------------------------------- | ------------- |
-| [Corporate Plaza](city-centercorporate-plaza.md) | Neighbourhood |
-| [Downtown](city-centerdowntown.md)               | Neighbourhood |
+| [Corporate Plaza](./City%20Center/Corporate%20Plaza.md) | Neighbourhood |
+| [Downtown](./City%20Center/Downtown.md)               | Neighbourhood |
 
 
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Angel Rosemont](characterscrewangel-rosemont.md) | ![100](x-system-filesassetsimagescharacterscrewcrewadossticker.png) | Crew           | <ul><li>[ZetaTech](3-worldfactionscorpszetatechmd.md)</li><li>[Crew](3-worldfactionscrewmd.md)</li></ul> |
+| [Angel Rosemont](../../../Characters/Crew/Angel%20Rosemont.md) | ![100](../../../../X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
 
 
 # Gangs
@@ -84,11 +84,11 @@ City Center is the business heart of [[Night City]], and some of the world's mos
 # History
 | Event                                                                                                                                                | Date                        | Summary                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Night City Holocaust](eventshistorynight-city-holocaust.md)                                                                             | August 20, 2023             | On August 20th 2023, a [Militech](militech.md) incursion team led by [Morgan Blackhand](morgan-blackhand.md) and [Johnny Silverhand](johnny-silverhand.md) infiltrated [Arasaka Tower](arasaka-tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [Fourth Corporate War](fourth-corporate-war.md), and started the [Time of the Red](time-of-the-red.md). |
-| [2074-02-19 17.00 - ADOS Intro](2074-02-19-1700-ados-intro.md) | 5:00 PM - February 19, 2074 | [ADOS](angel-rosemont.md) gets a call from [August](august.md) for a lucrative gig.                                                                                                                                                                                                                                      |
+| [Night City Holocaust](../../../Events/History/Night%20City%20Holocaust.md)                                                                             | August 20, 2023             | On August 20th 2023, a [Militech](Militech.md) incursion team led by [Morgan Blackhand](Morgan%20Blackhand.md) and [Johnny Silverhand](Johnny%20Silverhand.md) infiltrated [Arasaka Tower](Arasaka%20Tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [Fourth Corporate War](Fourth%20Corporate%20War.md), and started the [Time of the Red](Time%20of%20the%20Red.md). |
+| [2074-02-19 17.00 - ADOS Intro](../../../../../2074-02-19%2017.00%20-%20ADOS%20Intro.md) | 5:00 PM - February 19, 2074 | [ADOS](Angel%20Rosemont.md) gets a call from [August](August.md) for a lucrative gig.                                                                                                                                                                                                                                      |
 
 
 # Maps
 |                                                                    |
 | ------------------------------------------------------------------ |
-| ![800](x-system-filesassetsimagesmapsmapcitycenter2077.webp) |
+| ![800](../../../../X%20System%20Files/Assets/Images/Maps/MapCityCenter2077.webp) |
