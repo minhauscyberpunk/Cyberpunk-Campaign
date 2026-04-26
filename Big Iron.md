@@ -42,34 +42,34 @@ other_images: []
 
 >[!infobox|wsmall wikipedia left]
 ># Big Iron
->![[X System Files/Assets/Images/Weapons/Ranged Weapons/WeaponMalorianOvertureCrash.webp|cover wfit center]]
+>![cover wfit center](./X%20System%20Files/Assets/Images/Weapons/Ranged%20Weapons/WeaponMalorianOvertureCrash.webp)
 >
 >## Info
 >>[!danger|txt-c no-t]
->>*Instance of [[3 World/Items/Equipment/Weapons/Ranged Weapons/Malorian Overture.md|Malorian Overture]]*
+>>*Instance of [Malorian Overture](./Malorian%20Overture.md)*
 >
 >Big Iron is [[Maple Altaniin Corsair|Crash's]] [[Excellent Quality|excellent]] customised 6-shooter [[Malorian Overture|Overture revolver]].
 >
 >|||
 >|--:|:--|
 >|Manufacturer:|[[Malorian Arms|Malorian Arms]]|
->|Model:|[[3 World/Items/Equipment/Weapons/Ranged Weapons/Malorian Overture.md|Malorian Overture]]|
+>|Model:|[Malorian Overture](./Malorian%20Overture.md)|
 >|Quality:||
->|Type:|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md|Heavy Pistol]]|
+>|Type:|[Heavy Pistol](./Heavy%20Pistol.md)|
 >|Rebuild:||
 >|Cost:|200|
->|Owner:|[[3 World/Characters/Crew/Maple Altaniin Corsair.md|Maple Altaniin Corsair]]|
+>|Owner:|[Maple Altaniin Corsair](./Maple%20Altaniin%20Corsair.md)|
 >---
 >### Available Ammunition Types:
 > | Ammunition Type                                                                                                      | Cost |
 > | -------------------------------------------------------------------------------------------------------------------- | ---- |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Basic Ammunition.md\|Basic Ammunition]]                     | 10   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Rubber Ammunition.md\|Rubber Ammunition]]                   | 10   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Improved Smart Ammunition.md\|Improved Smart Ammunition]]   | 50   |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Armour Piercing Ammunition.md\|Armour Piercing Ammunition]] | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Expansive Ammunition.md\|Expansive Ammunition]]             | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Incendiary Ammunition.md\|Incendiary Ammunition]]           | 100  |
-> | [[4 Rules and Mechanics/Items/Equipment/Ammunition Types/Smart Ammunition.md\|Smart Ammunition]]                     | 500  |
+> | [Basic Ammunition](./Basic%20Ammunition.md)                     | 10   |
+> | [Rubber Ammunition](./Rubber%20Ammunition.md)                   | 10   |
+> | [Improved Smart Ammunition](./Improved%20Smart%20Ammunition.md)   | 50   |
+> | [Armour Piercing Ammunition](./Armour%20Piercing%20Ammunition.md) | 100  |
+> | [Expansive Ammunition](./Expansive%20Ammunition.md)             | 100  |
+> | [Incendiary Ammunition](./Incendiary%20Ammunition.md)           | 100  |
+> | [Smart Ammunition](./Smart%20Ammunition.md)                     | 500  |
 > 
 
 # Description
@@ -80,20 +80,20 @@ Big Iron is [[Maple Altaniin Corsair|Crash's]] personal [[Excellent Quality|exce
 >[!metadata|wfill] Weapon Details
 >|Weapon Type|Skill|Damage|Magazine Size|ROF|Hands Required|Concealable|Autofire Max Multiplier|
 >|--:|--:|:-:|:-:|:-:|:-:|:-:|:-:|
->|[[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md|Heavy Pistol]]|[[4 Rules and Mechanics/Skills/Ranged Weapon Skills/Handgun.md|Handgun]]|3d6|6|2|1|true||
+>|[Heavy Pistol](./Heavy%20Pistol.md)|[Handgun](./Handgun.md)|3d6|6|2|1|true||
 
 # Difficulty Values
 
 >[!danger|wfill] Single Shot Based on Range (note: for Shotguns, this is for slug ammunition only)
 > | Weapon Type                                                                                                        | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m | 101-200 m | 201-400 m | 401-800 m |
 > | ------------------------------------------------------------------------------------------------------------------ | ----- | ------ | ------- | ------- | -------- | --------- | --------- | --------- |
-> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md\|Heavy Pistol]] | 13    | 15     | 20      | 25      | 30       | 30        | \-        | \-        |
+> | [Heavy Pistol](./Heavy%20Pistol.md) | 13    | 15     | 20      | 25      | 30       | 30        | \-        | \-        |
 > 
 ---
->[!danger|wfill] Autofire Based on Range (note: only SMGs and Assault Rifles can use Autofire, and the skill used is the [[Autofire|Autofire]] skill).
+>[!danger|wfill] Autofire Based on Range (note: only SMGs and Assault Rifles can use Autofire, and the skill used is the [Autofire](./Autofire.md) skill).
 > | Weapon Type                                                                                                        | 0-6 m | 7-12 m | 13-25 m | 26-50 m | 51-100 m |
 > | ------------------------------------------------------------------------------------------------------------------ | ----- | ------ | ------- | ------- | -------- |
-> | [[4 Rules and Mechanics/Items/Equipment/Weapons/Ranged Weapons/Ranged Weapon Types/Heavy Pistol.md\|Heavy Pistol]] | \-    | \-     | \-      | \-      | \-       |
+> | [Heavy Pistol](./Heavy%20Pistol.md) | \-    | \-     | \-      | \-      | \-       |
 > 
 
 # Attachments
@@ -109,7 +109,7 @@ Big Iron is [[Maple Altaniin Corsair|Crash's]] personal [[Excellent Quality|exce
 # Notable Characters
 ||Character|Factions|Weapons|
 |---|---|---|---|
-|![](app://b769033cce13357c08607573ce7738ff8876/home/keira/Documents/Obsidian/Cyberpunk/Cyberpunk/X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash_sticker.png?1776829937293)|[Maple Altaniin Corsair](3%20World/Characters/Crew/Maple%20Altaniin%20Corsair.md)|- [Crew](3%20World/Factions/Crew.md)<br>- [8.20.2023](3%20World/Factions/Bands/8.20.2023.md)|- [Big Iron](Big%20Iron)<br>- [Homer 4000](Homer%204000)|
+|![](app://b769033cce13357c08607573ce7738ff8876/home/keira/Documents/Obsidian/Cyberpunk/Cyberpunk/X%20System%20Files/Assets/Images/Characters/Crew/CrewCrash_sticker.png?1776829937293)|[Maple Altaniin Corsair](./Maple%2520Altaniin%2520Corsair.md#)|- [Crew](3%20World/Factions/Crew.md)<br>- [8.20.2023](3%20World/Factions/Bands/8.20.2023.md)|- [Big Iron](Big%20Iron)<br>- [Homer 4000](Homer%204000)|
 
 # Related Weapons
 ||Weapon|Owner|
@@ -120,7 +120,7 @@ Dataview: No results to show for table query.
 # History
 | Event                                                                           | Date               | Summary                                                                                                                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[3 World/Events/Characters/Murder of Altan Khulan.md\|Murder of Altan Khulan]] | September 13, 2071 | In [[2071|2071]], corporate spy [[Altan Khulan|Altan Khulan]] was murdered by his wife, [[Cedar Corsair|Cedar Corsair]], on behalf of the [[Raven Microcybernetics|Raven Microcybernetics]] corporation. [[Maple Khulaniin Corsair|Maple Khulaniin Corsair]] witnesses her father's murder and leaves home, taking a new life as the [[Rockergirl|Rockergirl]] [[Maple Altaniin Corsair\|Crash]]. |
+| [Murder of Altan Khulan](./Murder%20of%20Altan%20Khulan.md) | September 13, 2071 | In [2071](2071.md), corporate spy [Altan Khulan](Altan%20Khulan.md) was murdered by his wife, [Cedar Corsair](Cedar%20Corsair.md), on behalf of the [Raven Microcybernetics](Raven%20Microcybernetics.md) corporation. [Maple Khulaniin Corsair](Maple%20Khulaniin%20Corsair.md) witnesses her father's murder and leaves home, taking a new life as the [Rockergirl](Rockergirl.md) [[Maple Altaniin Corsair\|Crash]]. |
 
 
 # Additional Notes
