@@ -14,18 +14,18 @@ languages:
   - "[[Streetslang]]"
   - "[[Latin]]"
 locations:
-  - "[Watson](./Watson.md)"
-  - "[Northside Industrial District](./Northside%20Industrial%20District.md)"
-  - "[The Colosseum](./The%20Colosseum.md)"
-  - "[Little China](./Little%20China.md)"
+  - "[[Watson]]"
+  - "[[Northside Industrial District]]"
+  - "[[The Colosseum]]"
+  - "[[Little China]]"
 character_sheet:
 weapons:
   - "[[August's Militech Sheriff]]"
 summary: ""
 ---
 
-August is a [Fixer](./Fixer.md). Operates in [Watson](./Watson.md)/[Little China](./Little%20China.md). Operates out of [The Colosseum](./The%20Colosseum.md), a warehouse fight club by day and music venue by night, located on the boundary of [Little China](./Little%20China.md) and [Northside Industrial District](./Northside%20Industrial%20District.md).
+August is a [[Fixer|Fixer]]. Operates in [[Watson]]/[[Little China]]. Operates out of [[The Colosseum]], a warehouse fight club by day and music venue by night, located on the boundary of [[Little China]] and [[Northside Industrial District]].
 
-August knows [Character Sheet - Crash](./Character%20Sheet%20-%20Crash.md) because she has played at [The Colosseum](./The%20Colosseum.md).
+August knows [[Character Sheet - Crash|Character Sheet - Crash]] because she has played at [[The Colosseum]].
 
-August is a fan of [8.20.2023](./8.20.2023.md).
+August is a fan of [[8.20.2023|8.20.2023]].

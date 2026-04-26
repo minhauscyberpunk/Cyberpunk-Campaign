@@ -5,7 +5,7 @@ tags:
   - santo_domingo
   - arroyo
 aliases:
-parent_location: "[Santo Domingo](./Santo%20Domingo.md)"
+parent_location: "[[Santo Domingo]]"
 bordering_locations:
   - "[[Rancho Coronado]]"
   - "[[Charter Hill]]"
@@ -19,30 +19,30 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Arroyo
->![wsmall cover](insert_image.png)
+>![[insert_image.png|wsmall cover]]
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[Santo Domingo](./Santo%20Domingo.md)|
+>|Located In:|[[Santo Domingo]]|
 >|Prestige:|Low|
 >---
 >### Borders
 > | Location                                                                                         | Location Type |
 > | ------------------------------------------------------------------------------------------------ | ------------- |
-> | [Rancho Coronado](./Rancho%20Coronado.md) | Neighbourhood |
-> | [Vista Del Rey](./Vista%20Del%20Rey.md)           | Neighbourhood |
-> | [Coastview](./Coastview.md)                  | Neighbourhood |
-> | [Dogtown](./Dogtown.md)                      | Neighbourhood |
-> | [The Glen](./The%20Glen.md)                     | Neighbourhood |
-> | [Pacifica](./Pacifica.md)                             | District      |
-> | [Heywood](./Heywood.md)                               | District      |
-> | [Westbrook](./Westbrook.md)                           | District      |
+> | [[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]] | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]]           | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Pacifica/Coastview.md\|Coastview]]                  | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Pacifica/Dogtown.md\|Dogtown]]                      | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]                     | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Pacifica.md\|Pacifica]]                             | District      |
+> | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                               | District      |
+> | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                           | District      |
 > 
 
 # Summary
-Arroyo is a neighbourhood on the west side of [Santo Domingo](./Santo%20Domingo.md), in the south east of [Night City](./Night%20City.md). It is primarily an industrial zone.
+Arroyo is a neighbourhood on the west side of [[Santo Domingo]], in the south east of [[Night City|Night City]]. It is primarily an industrial zone.
 
 # History
 
@@ -77,8 +77,8 @@ SORT location_type DESC, file.link ASC
 # Gangs
 | Gang                                                           | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [6th Street Gang](./6th%20Street%20Gang.md) | Low          | <ul><li>[Santo Domingo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo.md.md)</li><li>[Arroyo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Arroyo.md.md)</li><li>[Rancho Coronado](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Rancho%20Coronado.md.md)</li><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
+| [[3 World/Factions/Gangs/6th Street Gang.md\|6th Street Gang]] | Low          | <ul><li>[[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]]</li><li>[[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]</li><li>[[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]]</li><li>[[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
 
 
 # Map
-![cover](MapSantoDomingo2077.png)
+![[MapSantoDomingo2077.png|cover]]

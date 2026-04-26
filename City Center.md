@@ -36,7 +36,7 @@ name: City Center
 
 >[!infobox|wsmall wikipedia left]
 ># City Center
->![cover wfit center](./X%20System%20Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp)
+>![[X System Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp|cover wfit center]]
 >
 >## Info
 >City Center is [[Night City|Night City's]] economic and geographical core.
@@ -44,18 +44,18 @@ name: City Center
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[Night City](./Night%20City.md)|
+>|Located In:|[[3 World/Locations/North America/Night City.md|Night City]]|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location Type | Location                                                                               |
 > | ------------- | -------------------------------------------------------------------------------------- |
-> | Sub-District  | [Little China](./Little%20China.md)    |
-> | Sub-District  | [Charter Hill](./Charter%20Hill.md) |
-> | Sub-District  | [Japantown](./Japantown.md)       |
-> | District      | [Watson](./Watson.md)                       |
-> | District      | [Heywood](./Heywood.md)                     |
-> | District      | [Westbrook](./Westbrook.md)                 |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]    |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]] |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]       |
+> | District      | [[3 World/Locations/North America/Night City/Watson.md\|Watson]]                       |
+> | District      | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                     |
+> | District      | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                 |
 > 
 
 # Description
@@ -66,14 +66,14 @@ City Center is the business heart of [[Night City]], and some of the world's mos
 # Notable Places
 | Location                                                                                       | Location Type |
 | ---------------------------------------------------------------------------------------------- | ------------- |
-| [Corporate Plaza](./Corporate%20Plaza.md) | Neighbourhood |
-| [Downtown](./Downtown.md)               | Neighbourhood |
+| [[3 World/Locations/North America/Night City/City Center/Corporate Plaza.md\|Corporate Plaza]] | Neighbourhood |
+| [[3 World/Locations/North America/Night City/City Center/Downtown.md\|Downtown]]               | Neighbourhood |
 
 
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Angel Rosemont](./Angel%20Rosemont.md) | ![100](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
+| [[3 World/Characters/Crew/Angel Rosemont.md\|Angel Rosemont]] | ![[X System Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png\|100]] | Crew           | <ul><li>[[3 World/Factions/Corps/ZetaTech.md\|ZetaTech]]</li><li>[[3 World/Factions/Crew.md\|Crew]]</li></ul> |
 
 
 # Gangs
@@ -84,11 +84,11 @@ City Center is the business heart of [[Night City]], and some of the world's mos
 # History
 | Event                                                                                                                                                | Date                        | Summary                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Night City Holocaust](./Night%20City%20Holocaust.md)                                                                             | August 20, 2023             | On August 20th 2023, a [Militech](Militech.md) incursion team led by [Morgan Blackhand](Morgan%20Blackhand.md) and [Johnny Silverhand](Johnny%20Silverhand.md) infiltrated [Arasaka Tower](Arasaka%20Tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [Fourth Corporate War](Fourth%20Corporate%20War.md), and started the [Time of the Red](Time%20of%20the%20Red.md). |
-| [2074-02-19 17.00 - ADOS Intro](./2074-02-19%2017.00%20-%20ADOS%20Intro.md) | 5:00 PM - February 19, 2074 | [ADOS](Angel%20Rosemont.md) gets a call from [August](August.md) for a lucrative gig.                                                                                                                                                                                                                                      |
+| [[3 World/Events/History/Night City Holocaust.md\|Night City Holocaust]]                                                                             | August 20, 2023             | On August 20th 2023, a [[Militech|Militech]] incursion team led by [[Morgan Blackhand|Morgan Blackhand]] and [[Johnny Silverhand|Johnny Silverhand]] infiltrated [[Arasaka Tower|Arasaka Tower]] and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War|Fourth Corporate War]], and started the [[Time of the Red|Time of the Red]]. |
+| [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 17.00 - ADOS Intro.md\|2074-02-19 17.00 - ADOS Intro]] | 5:00 PM - February 19, 2074 | [[Angel Rosemont\|ADOS]] gets a call from [[August|August]] for a lucrative gig.                                                                                                                                                                                                                                      |
 
 
 # Maps
 |                                                                    |
 | ------------------------------------------------------------------ |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapCityCenter2077.webp) |
+| ![[X System Files/Assets/Images/Maps/MapCityCenter2077.webp\|800]] |

@@ -22,7 +22,7 @@ name: Arasaka Tower
 
 >[!infobox|wsmall wikipedia left]
 ># Arasaka Tower
->![cover wfit center](./X%20System%20Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp)
+>![[X System Files/Assets/Images/Locations/CityCenterCorporatePlazaConcept1.webp|cover wfit center]]
 >
 >## Info
 >Arasaka Tower is the regional headquarters of [[Arasaka]] in [[Night City]]. It commands the city skyline.
@@ -30,7 +30,7 @@ name: Arasaka Tower
 >|||
 >|--:|:--|
 >|Type:|Building|
->|Located In:|[Corporate Plaza](./Corporate%20Plaza.md)|
+>|Located In:|[[3 World/Locations/North America/Night City/City Center/Corporate Plaza.md|Corporate Plaza]]|
 >|Prestige:|Very High|
 >---
 >### Borders
@@ -59,7 +59,7 @@ Araska Tower is a tower in [[Corporate Plaza]] in the [[City Center]] of [[Night
 # History
 | Event                                                                    | Date            | Summary                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------ | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Night City Holocaust](./Night%20City%20Holocaust.md) | August 20, 2023 | On August 20th 2023, a [Militech](Militech.md) incursion team led by [Morgan Blackhand](Morgan%20Blackhand.md) and [Johnny Silverhand](Johnny%20Silverhand.md) infiltrated [Arasaka Tower](Arasaka%20Tower.md) and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [Fourth Corporate War](Fourth%20Corporate%20War.md), and started the [Time of the Red](Time%20of%20the%20Red.md). |
+| [[3 World/Events/History/Night City Holocaust.md\|Night City Holocaust]] | August 20, 2023 | On August 20th 2023, a [[Militech|Militech]] incursion team led by [[Morgan Blackhand|Morgan Blackhand]] and [[Johnny Silverhand|Johnny Silverhand]] infiltrated [[Arasaka Tower|Arasaka Tower]] and detonated a tactical nuclear device. The resulting blast killed approximately 4000 people, ended the [[Fourth Corporate War|Fourth Corporate War]], and started the [[Time of the Red|Time of the Red]]. |
 
 
 # Maps

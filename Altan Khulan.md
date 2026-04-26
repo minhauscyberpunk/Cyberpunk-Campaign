@@ -7,13 +7,13 @@ aliases: []
 character_type: NPC
 portrait:
 birth_date:
-origin: "[Mongolia](./Mongolia.md)"
+origin: "[[Mongolia]]"
 languages:
   - "[[English]]"
   - "[[Streetslang]]"
   - "[[Mongolian]]"
 locations:
-  - "[Night City](./Night%20City.md)"
+  - "[[Night City]]"
   - "[[Westbrook]]"
   - "[[North Oak]]"
 character_sheet:
@@ -21,11 +21,11 @@ weapons: []
 summary: ""
 ---
 
-Altan Khulan was the father of [Crash/Maple Corsair](./Maple%20Altaniin%20Corsair.md). Altan Khulan is deceased, having died in [2071](./2071.md).
+Altan Khulan was the father of [[Maple Altaniin Corsair|Crash/Maple Corsair]]. Altan Khulan is deceased, having died in [[2071|2071]].
 
-Altan Khulan came to [Night City](./Night%20City.md) from [Mongolia](./Mongolia.md).
+Altan Khulan came to [[Night City]] from [[Mongolia]].
 
-Altan Khulan was the one to give the name [Crash](./Maple%20Altaniin%20Corsair.md). Always letting his little girl borrow his cars with "Don't Crash" slowly turning into "Hey Crash" by the time she returned at dawn.
+Altan Khulan was the one to give the name [[Maple Altaniin Corsair|Crash]]. Always letting his little girl borrow his cars with "Don't Crash" slowly turning into "Hey Crash" by the time she returned at dawn.
 
 Altan was a corpo soldier who served for a while for Arakasa then became a agent for Milatech as a double agent who then was tasked with infiltrating Raven. In so deep though he didnt really care. He made it to Night City. All he had to do was report. But he got tired. This triple agent wasnt for him.
 

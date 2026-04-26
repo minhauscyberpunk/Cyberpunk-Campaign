@@ -32,7 +32,7 @@ name: North Oak
 
 >[!infobox|wsmall wikipedia left]
 ># North Oak
->![cover wfit center](./X%20System%20Files/Assets/Images/Locations/WestbrookNorthOakVista2.webp)
+>![[X System Files/Assets/Images/Locations/WestbrookNorthOakVista2.webp|cover wfit center]]
 >
 >## Info
 >North Oak is the home of celebrities and corporate executives in [[Night City]]: only the richest of the rich live in the hills at the top of [[Westbrook]].
@@ -40,17 +40,17 @@ name: North Oak
 >|||
 >|--:|:--|
 >|Type:|Sub-District|
->|Located In:|[Westbrook](./Westbrook.md)|
+>|Located In:|[[3 World/Locations/North America/Night City/Westbrook.md|Westbrook]]|
 >|Prestige:|Very High|
 >---
 >### Borders
 > | Location Type | Location                                                                                                              |
 > | ------------- | --------------------------------------------------------------------------------------------------------------------- |
-> | Sub-District  | [Northside Industrial District](./Northside%20Industrial%20District.md) |
-> | Sub-District  | [Charter Hill](./Charter%20Hill.md)                                |
-> | Sub-District  | [Japantown](./Japantown.md)                                      |
-> | District      | [Watson](./Watson.md)                                                      |
-> | District      | [Badlands](./Badlands.md)                                                  |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Watson/Northside Industrial District.md\|Northside Industrial District]] |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]]                                |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Japantown.md\|Japantown]]                                      |
+> | District      | [[3 World/Locations/North America/Night City/Watson.md\|Watson]]                                                      |
+> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                                                  |
 > 
 
 # Description
@@ -66,8 +66,8 @@ North Oak is also the location of the [[North Oak Columbarium]].
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Angel Rosemont](./Angel%20Rosemont.md) | ![100](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
-| [Altan Khulan](./Altan%20Khulan.md)     | \-                                                                          | NPC            | \-                                                                                                              |
+| [[3 World/Characters/Crew/Angel Rosemont.md\|Angel Rosemont]] | ![[X System Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png\|100]] | Crew           | <ul><li>[[3 World/Factions/Corps/ZetaTech.md\|ZetaTech]]</li><li>[[3 World/Factions/Crew.md\|Crew]]</li></ul> |
+| [[3 World/Characters/NPCs/Altan Khulan.md\|Altan Khulan]]     | \-                                                                          | NPC            | \-                                                                                                              |
 
 
 # Gangs
@@ -78,11 +78,11 @@ North Oak is also the location of the [[North Oak Columbarium]].
 # History
 | Event                                                                                     | Date               | Summary                                                                                                                                                                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Murder of Altan Khulan](./Murder%20of%20Altan%20Khulan.md)           | September 13, 2071 | In [2071](2071.md), corporate spy [Altan Khulan](Altan%20Khulan.md) was murdered by his wife, [Cedar Corsair](Cedar%20Corsair.md), on behalf of the [Raven Microcybernetics](Raven%20Microcybernetics.md) corporation. [Maple Khulaniin Corsair](Maple%20Khulaniin%20Corsair.md) witnesses her father's murder and leaves home, taking a new life as the [Rockergirl](Rockergirl.md) [Crash](Maple%20Altaniin%20Corsair.md). |
-| [Angel Rosemont's Graduation](./Angel%20Rosemont's%20Graduation.md) | June 15, 2073      | In the summer of [2073](2073.md), [Angel Rosemont](Angel%20Rosemont.md) graduated from [North Oak Academy](North%20Oak%20Academy.md) with straight As. Upon graduation, she began a sabattical year, moonlighting as a [Netrunner](Netrunner.md) with the handle [ADOS](Angel%20Rosemont.md) to build experience.                                                        |
+| [[3 World/Events/Characters/Murder of Altan Khulan.md\|Murder of Altan Khulan]]           | September 13, 2071 | In [[2071|2071]], corporate spy [[Altan Khulan|Altan Khulan]] was murdered by his wife, [[Cedar Corsair|Cedar Corsair]], on behalf of the [[Raven Microcybernetics|Raven Microcybernetics]] corporation. [[Maple Khulaniin Corsair|Maple Khulaniin Corsair]] witnesses her father's murder and leaves home, taking a new life as the [[Rockergirl|Rockergirl]] [[Maple Altaniin Corsair\|Crash]]. |
+| [[3 World/Events/Characters/Angel Rosemont's Graduation.md\|Angel Rosemont's Graduation]] | June 15, 2073      | In the summer of [[2073|2073]], [[Angel Rosemont|Angel Rosemont]] graduated from [[North Oak Academy|North Oak Academy]] with straight As. Upon graduation, she began a sabattical year, moonlighting as a [[Netrunner|Netrunner]] with the handle [[Angel Rosemont\|ADOS]] to build experience.                                                        |
 
 
 # Maps
 |                                                                           |
 | ------------------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapWestbrookNorthOak2077.webp) |
+| ![[X System Files/Assets/Images/Maps/MapWestbrookNorthOak2077.webp\|800]] |

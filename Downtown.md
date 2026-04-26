@@ -5,7 +5,7 @@ tags:
   - city_center
   - downtown
 aliases:
-parent_location: "[City Center](./City%20Center.md)"
+parent_location: "[[City Center]]"
 bordering_locations:
   - "[[Corporate Plaza]]"
   - "[[Wellsprings]]"
@@ -15,30 +15,30 @@ location_type: Neighbourhood
 
 >[!infobox|wsmall wikipedia left]
 ># Downtown
->![wsmall cover](insert_image.png)
+>![[insert_image.png|wsmall cover]]
 >
 >## Info
 >|||
 >|--:|:--|
 >|Type:|Neighbourhood|
->|Located In:|[City Center](./City%20Center.md)|
+>|Located In:|[[City Center]]|
 >|Prestige:|High|
 >---
 >### Borders
 > | Location                                                                                       | Location Type |
 > | ---------------------------------------------------------------------------------------------- | ------------- |
-> | [Little China](./Little%20China.md)            | Sub-District  |
-> | [Wellsprings](./Wellsprings.md)             | Neighbourhood |
-> | [Corporate Plaza](./Corporate%20Plaza.md) | Neighbourhood |
-> | [Watson](./Watson.md)                               | District      |
-> | [Heywood](./Heywood.md)                             | District      |
+> | [[3 World/Locations/North America/Night City/Watson/Little China.md\|Little China]]            | Sub-District  |
+> | [[3 World/Locations/North America/Night City/Heywood/Wellsprings.md\|Wellsprings]]             | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/City Center/Corporate Plaza.md\|Corporate Plaza]] | Neighbourhood |
+> | [[3 World/Locations/North America/Night City/Watson.md\|Watson]]                               | District      |
+> | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                             | District      |
 > 
 
 # Summary
-Downtown is a neighbourhood on the west side of the [City Center](./City%20Center.md), in the middle of [Night City](./Night%20City.md).
+Downtown is a neighbourhood on the west side of the [[City Center]], in the middle of [[Night City|Night City]].
 
 # History
-- [2074-02-19 17.00 - ADOS Intro](./2074-02-19%2017.00%20-%20ADOS%20Intro.md)
+- [[5 Sessions/Our Story/Beat Planning/2074-02-19 The Intro Job - August’s Data Chip/2074-02-19 17.00 - ADOS Intro.md|2074-02-19 17.00 - ADOS Intro]]
 
 
 # Notable Places
@@ -66,7 +66,7 @@ SORT location_type DESC, file.link ASC
 # Notable Characters
 | Character                                                     |                                                                             | Character Type | Factions                                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Angel Rosemont](./Angel%20Rosemont.md) | ![100](./X%20System%20Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png) | Crew           | <ul><li>[ZetaTech](3%20World/Factions/Corps/ZetaTech.md.md)</li><li>[Crew](3%20World/Factions/Crew.md.md)</li></ul> |
+| [[3 World/Characters/Crew/Angel Rosemont.md\|Angel Rosemont]] | ![[X System Files/Assets/Images/Characters/Crew/CrewADOS_sticker.png\|100]] | Crew           | <ul><li>[[3 World/Factions/Corps/ZetaTech.md\|ZetaTech]]</li><li>[[3 World/Factions/Crew.md\|Crew]]</li></ul> |
 
 
 # Gangs
@@ -75,4 +75,4 @@ SORT location_type DESC, file.link ASC
 
 
 # Map
-![cover](MapCityCenter2077.png)
+![[MapCityCenter2077.png|cover]]

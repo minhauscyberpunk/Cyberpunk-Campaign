@@ -37,7 +37,7 @@ name: Santo Domingo
 
 >[!infobox|wsmall wikipedia left]
 ># Santo Domingo
->![cover wfit center](./X%20System%20Files/Assets/Images/Locations/SantoDomingoArroyoVista2.webp)
+>![[X System Files/Assets/Images/Locations/SantoDomingoArroyoVista2.webp|cover wfit center]]
 >
 >## Info
 >Santo Domingo is a sprawling residential and industrial district in the south east of [[Night City]].
@@ -45,17 +45,17 @@ name: Santo Domingo
 >|||
 >|--:|:--|
 >|Type:|District|
->|Located In:|[Night City](./Night%20City.md)|
+>|Located In:|[[3 World/Locations/North America/Night City.md|Night City]]|
 >|Prestige:|Low|
 >---
 >### Borders
 > | Location Type | Location                                                                               |
 > | ------------- | -------------------------------------------------------------------------------------- |
-> | Sub-District  | [Charter Hill](./Charter%20Hill.md) |
-> | District      | [Pacifica](./Pacifica.md)                   |
-> | District      | [Badlands](./Badlands.md)                   |
-> | District      | [Heywood](./Heywood.md)                     |
-> | District      | [Westbrook](./Westbrook.md)                 |
+> | Sub-District  | [[3 World/Locations/North America/Night City/Westbrook/Charter Hill.md\|Charter Hill]] |
+> | District      | [[3 World/Locations/North America/Night City/Pacifica.md\|Pacifica]]                   |
+> | District      | [[3 World/Locations/North America/Night City/Badlands.md\|Badlands]]                   |
+> | District      | [[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]                     |
+> | District      | [[3 World/Locations/North America/Night City/Westbrook.md\|Westbrook]]                 |
 > 
 
 # Description
@@ -66,8 +66,8 @@ Before the redevelopments of the 2050s, the area Santo Domingo occupies used to 
 # Notable Places
 | Location                                                                                         | Location Type |
 | ------------------------------------------------------------------------------------------------ | ------------- |
-| [Arroyo](./Arroyo.md)                   | Neighbourhood |
-| [Rancho Coronado](./Rancho%20Coronado.md) | Neighbourhood |
+| [[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]                   | Neighbourhood |
+| [[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]] | Neighbourhood |
 
 
 # Notable Characters
@@ -78,7 +78,7 @@ Before the redevelopments of the 2050s, the area Santo Domingo occupies used to 
 # Gangs
 | Gang                                                           | Danger Level | Operating Locations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | -------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [6th Street Gang](./6th%20Street%20Gang.md) | Low          | <ul><li>[Santo Domingo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo.md.md)</li><li>[Arroyo](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Arroyo.md.md)</li><li>[Rancho Coronado](3%20World/Locations/North%20America/Night%20City/Santo%20Domingo/Rancho%20Coronado.md.md)</li><li>[Heywood](3%20World/Locations/North%20America/Night%20City/Heywood.md.md)</li><li>[Vista Del Rey](3%20World/Locations/North%20America/Night%20City/Heywood/Vista%20Del%20Rey.md.md)</li><li>[The Glen](3%20World/Locations/North%20America/Night%20City/Heywood/The%20Glen.md.md)</li><li>[Night City](3%20World/Locations/North%20America/Night%20City.md.md)</li></ul> |
+| [[3 World/Factions/Gangs/6th Street Gang.md\|6th Street Gang]] | Low          | <ul><li>[[3 World/Locations/North America/Night City/Santo Domingo.md\|Santo Domingo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Arroyo.md\|Arroyo]]</li><li>[[3 World/Locations/North America/Night City/Santo Domingo/Rancho Coronado.md\|Rancho Coronado]]</li><li>[[3 World/Locations/North America/Night City/Heywood.md\|Heywood]]</li><li>[[3 World/Locations/North America/Night City/Heywood/Vista Del Rey.md\|Vista Del Rey]]</li><li>[[3 World/Locations/North America/Night City/Heywood/The Glen.md\|The Glen]]</li><li>[[3 World/Locations/North America/Night City.md\|Night City]]</li></ul> |
 
 
 # History
@@ -89,4 +89,4 @@ Before the redevelopments of the 2050s, the area Santo Domingo occupies used to 
 # Maps
 |                                                                      |
 | -------------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapSantoDomingo2077.webp) |
+| ![[X System Files/Assets/Images/Maps/MapSantoDomingo2077.webp\|800]] |

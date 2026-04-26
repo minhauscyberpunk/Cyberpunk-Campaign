@@ -21,7 +21,7 @@ name: South America
 
 >[!infobox|wsmall wikipedia left]
 ># South America
->![cover wfit center](./X%20System%20Files/Assets/Images/Maps/MapSouthAmerica2077.png)
+>![[X System Files/Assets/Images/Maps/MapSouthAmerica2077.png|cover wfit center]]
 >
 >## Info
 >South America is a continent in the Southern Hemisphere.
@@ -35,7 +35,7 @@ name: South America
 >### Borders
 > | Location Type | Location                                              |
 > | ------------- | ----------------------------------------------------- |
-> | Region        | [North America](./North%20America.md) |
+> | Region        | [[3 World/Locations/North America.md\|North America]] |
 > 
 
 # Description
@@ -64,4 +64,4 @@ South America is a continent in the Southern Hemisphere. It borders [[North Amer
 # Maps
 |                                                                     |
 | ------------------------------------------------------------------- |
-| ![800](./X%20System%20Files/Assets/Images/Maps/MapSouthAmerica2077.png) |
+| ![[X System Files/Assets/Images/Maps/MapSouthAmerica2077.png\|800]] |
